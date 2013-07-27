@@ -1,0 +1,2990 @@
+<countries>
+  <country>
+    <jp_name>日本</jp_name>
+    <iso_name>Japan</iso_name>
+    <id_number>392</id_number>
+    <three_digit_id>JPN</three_digit_id>
+    <two_digit_id>JP</two_digit_id>
+    <location>東アジア</location>
+    <region>ISO 3166-2:JP</region>
+    <longitude>138.252924</longitude>
+    <latitude>36.204824</latitude>
+    <distance>0</distance>
+  </country>
+  <country>
+    <jp_name>大韓民国</jp_name>
+    <iso_name>Korea, Republic of</iso_name>
+    <id_number>410</id_number>
+    <three_digit_id>KOR</three_digit_id>
+    <two_digit_id>KR</two_digit_id>
+    <location>東アジア</location>
+    <region>ISO 3166-2:KR</region>
+    <longitude>127.766922</longitude>
+    <latitude>35.907757</latitude>
+    <distance>945</distance>
+  </country>
+  <country>
+    <jp_name>朝鮮民主主義人民共和国</jp_name>
+    <iso_name>Korea, Democratic People's Republic of</iso_name>
+    <id_number>408</id_number>
+    <three_digit_id>PRK</three_digit_id>
+    <two_digit_id>KP</two_digit_id>
+    <location>東アジア</location>
+    <region>ISO 3166-2:KP</region>
+    <longitude>127.510093</longitude>
+    <latitude>40.339852</latitude>
+    <distance>1046</distance>
+  </country>
+  <country>
+    <jp_name>台湾</jp_name>
+    <iso_name>Taiwan, Province of China</iso_name>
+    <id_number>158</id_number>
+    <three_digit_id>TWN</three_digit_id>
+    <two_digit_id>TW</two_digit_id>
+    <location>東アジア</location>
+    <region>ISO 3166-2:TW</region>
+    <longitude>120.960515</longitude>
+    <latitude>23.69781</latitude>
+    <distance>2169</distance>
+  </country>
+  <country>
+    <jp_name>北マリアナ諸島</jp_name>
+    <iso_name>Northern Mariana Islands</iso_name>
+    <id_number>580</id_number>
+    <three_digit_id>MNP</three_digit_id>
+    <two_digit_id>MP</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:MP</region>
+    <longitude>145.6739</longitude>
+    <latitude>15.0979</latitude>
+    <distance>2454</distance>
+  </country>
+  <country>
+    <jp_name>グアム</jp_name>
+    <iso_name>Guam</iso_name>
+    <id_number>316</id_number>
+    <three_digit_id>GUM</three_digit_id>
+    <two_digit_id>GU</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:GU</region>
+    <longitude>144.793731</longitude>
+    <latitude>13.444304</latitude>
+    <distance>2606</distance>
+  </country>
+  <country>
+    <jp_name>香港</jp_name>
+    <iso_name>Hong Kong</iso_name>
+    <id_number>344</id_number>
+    <three_digit_id>HKG</three_digit_id>
+    <two_digit_id>HK</two_digit_id>
+    <location>東アジア</location>
+    <region>ISO 3166-2:HK</region>
+    <longitude>114.109497</longitude>
+    <latitude>22.396428</latitude>
+    <distance>2800</distance>
+  </country>
+  <country>
+    <jp_name>タンザニア</jp_name>
+    <iso_name>Tanzania, United Republic of</iso_name>
+    <id_number>834</id_number>
+    <three_digit_id>TZA</three_digit_id>
+    <two_digit_id>TZ</two_digit_id>
+    <location>東アフリカ</location>
+    <region>ISO 3166-2:TZ</region>
+    <longitude>114.171447</longitude>
+    <latitude>22.296222</latitude>
+    <distance>2802</distance>
+  </country>
+  <country>
+    <jp_name>マカオ</jp_name>
+    <iso_name>Macao</iso_name>
+    <id_number>446</id_number>
+    <three_digit_id>MAC</three_digit_id>
+    <two_digit_id>MO</two_digit_id>
+    <location>東アジア</location>
+    <region>ISO 3166-2:MO</region>
+    <longitude>113.543873</longitude>
+    <latitude>22.198745</latitude>
+    <distance>2860</distance>
+  </country>
+  <country>
+    <jp_name>中華人民共和国|中国</jp_name>
+    <iso_name>China</iso_name>
+    <id_number>156</id_number>
+    <three_digit_id>CHN</three_digit_id>
+    <two_digit_id>CN</two_digit_id>
+    <location>東アジア</location>
+    <region>ISO 3166-2:CN</region>
+    <longitude>104.195397</longitude>
+    <latitude>35.86166</latitude>
+    <distance>3069</distance>
+  </country>
+  <country>
+    <jp_name>モンゴル国</jp_name>
+    <iso_name>Mongolia</iso_name>
+    <id_number>496</id_number>
+    <three_digit_id>MNG</three_digit_id>
+    <two_digit_id>MN</two_digit_id>
+    <location>東アジア</location>
+    <region>ISO 3166-2:MN</region>
+    <longitude>103.846656</longitude>
+    <latitude>46.862496</latitude>
+    <distance>3076</distance>
+  </country>
+  <country>
+    <jp_name>フィリピン</jp_name>
+    <iso_name>Philippines</iso_name>
+    <id_number>608</id_number>
+    <three_digit_id>PHL</three_digit_id>
+    <two_digit_id>PH</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:PH</region>
+    <longitude>121.774017</longitude>
+    <latitude>12.879721</latitude>
+    <distance>3105</distance>
+  </country>
+  <country>
+    <jp_name>パラオ</jp_name>
+    <iso_name>Palau</iso_name>
+    <id_number>585</id_number>
+    <three_digit_id>PLW</three_digit_id>
+    <two_digit_id>PW</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:PW</region>
+    <longitude>134.58252</longitude>
+    <latitude>7.51498</latitude>
+    <distance>3199</distance>
+  </country>
+  <country>
+    <jp_name>ロシア</jp_name>
+    <iso_name>Russian Federation</iso_name>
+    <id_number>643</id_number>
+    <three_digit_id>RUS</three_digit_id>
+    <two_digit_id>RU</two_digit_id>
+    <location>ロシア</location>
+    <region>ISO 3166-2:RU</region>
+    <longitude>105.318756</longitude>
+    <latitude>61.52401</latitude>
+    <distance>3710</distance>
+  </country>
+  <country>
+    <jp_name>ミクロネシア連邦</jp_name>
+    <iso_name>Micronesia, Federated States of</iso_name>
+    <id_number>583</id_number>
+    <three_digit_id>FSM</three_digit_id>
+    <two_digit_id>FM</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:FM</region>
+    <longitude>158.2150717</longitude>
+    <latitude>6.8874574</latitude>
+    <distance>3848</distance>
+  </country>
+  <country>
+    <jp_name>ベトナム</jp_name>
+    <iso_name>Viet Nam</iso_name>
+    <id_number>704</id_number>
+    <three_digit_id>VNM</three_digit_id>
+    <two_digit_id>VN</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:VN</region>
+    <longitude>108.277199</longitude>
+    <latitude>14.058324</latitude>
+    <distance>3893</distance>
+  </country>
+  <country>
+    <jp_name>ラオス</jp_name>
+    <iso_name>Lao People's Democratic Republic</iso_name>
+    <id_number>418</id_number>
+    <three_digit_id>LAO</three_digit_id>
+    <two_digit_id>LA</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:LA</region>
+    <longitude>102.495496</longitude>
+    <latitude>19.85627</latitude>
+    <distance>3955</distance>
+  </country>
+  <country>
+    <jp_name>カンボジア</jp_name>
+    <iso_name>Cambodia</iso_name>
+    <id_number>116</id_number>
+    <three_digit_id>KHM</three_digit_id>
+    <two_digit_id>KH</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:KH</region>
+    <longitude>104.990963</longitude>
+    <latitude>12.565679</latitude>
+    <distance>4271</distance>
+  </country>
+  <country>
+    <jp_name>ブルネイ</jp_name>
+    <iso_name>Brunei Darussalam</iso_name>
+    <id_number>96</id_number>
+    <three_digit_id>BRN</three_digit_id>
+    <two_digit_id>BN</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:BN</region>
+    <longitude>114.727669</longitude>
+    <latitude>4.535277</latitude>
+    <distance>4280</distance>
+  </country>
+  <country>
+    <jp_name>タイ王国</jp_name>
+    <iso_name>Thailand</iso_name>
+    <id_number>764</id_number>
+    <three_digit_id>THA</three_digit_id>
+    <two_digit_id>TH</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:TH</region>
+    <longitude>100.992541</longitude>
+    <latitude>15.870032</latitude>
+    <distance>4356</distance>
+  </country>
+  <country>
+    <jp_name>ミャンマー</jp_name>
+    <iso_name>Myanmar</iso_name>
+    <id_number>104</id_number>
+    <three_digit_id>MMR</three_digit_id>
+    <two_digit_id>MM</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:MM</region>
+    <longitude>95.956223</longitude>
+    <latitude>21.913965</latitude>
+    <distance>4413</distance>
+  </country>
+  <country>
+    <jp_name>ブータン</jp_name>
+    <iso_name>Bhutan</iso_name>
+    <id_number>64</id_number>
+    <three_digit_id>BTN</three_digit_id>
+    <two_digit_id>BT</two_digit_id>
+    <location>南アジア</location>
+    <region>ISO 3166-2:BT</region>
+    <longitude>90.433601</longitude>
+    <latitude>27.514162</latitude>
+    <distance>4626</distance>
+  </country>
+  <country>
+    <jp_name>マーシャル諸島</jp_name>
+    <iso_name>Marshall Islands</iso_name>
+    <id_number>584</id_number>
+    <three_digit_id>MHL</three_digit_id>
+    <two_digit_id>MH</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:MH</region>
+    <longitude>171.184478</longitude>
+    <latitude>7.131474</latitude>
+    <distance>4688</distance>
+  </country>
+  <country>
+    <jp_name>パプアニューギニア</jp_name>
+    <iso_name>Papua New Guinea</iso_name>
+    <id_number>598</id_number>
+    <three_digit_id>PNG</three_digit_id>
+    <two_digit_id>PG</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:PG</region>
+    <longitude>143.95555</longitude>
+    <latitude>-6.314993</latitude>
+    <distance>4744</distance>
+  </country>
+  <country>
+    <jp_name>バングラデシュ</jp_name>
+    <iso_name>Bangladesh</iso_name>
+    <id_number>50</id_number>
+    <three_digit_id>BGD</three_digit_id>
+    <two_digit_id>BD</two_digit_id>
+    <location>南アジア</location>
+    <region>ISO 3166-2:BD</region>
+    <longitude>90.356331</longitude>
+    <latitude>23.684994</latitude>
+    <distance>4827</distance>
+  </country>
+  <country>
+    <jp_name>ナウル</jp_name>
+    <iso_name>Nauru</iso_name>
+    <id_number>520</id_number>
+    <three_digit_id>NRU</three_digit_id>
+    <two_digit_id>NR</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:NR</region>
+    <longitude>166.931503</longitude>
+    <latitude>-0.522778</latitude>
+    <distance>5075</distance>
+  </country>
+  <country>
+    <jp_name>ネパール</jp_name>
+    <iso_name>Nepal</iso_name>
+    <id_number>524</id_number>
+    <three_digit_id>NPL</three_digit_id>
+    <two_digit_id>NP</two_digit_id>
+    <location>南アジア</location>
+    <region>ISO 3166-2:NP</region>
+    <longitude>84.124008</longitude>
+    <latitude>28.394857</latitude>
+    <distance>5168</distance>
+  </country>
+  <country>
+    <jp_name>マレーシア</jp_name>
+    <iso_name>Malaysia</iso_name>
+    <id_number>458</id_number>
+    <three_digit_id>MYS</three_digit_id>
+    <two_digit_id>MY</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:MY</region>
+    <longitude>101.975766</longitude>
+    <latitude>4.210484</latitude>
+    <distance>5171</distance>
+  </country>
+  <country>
+    <jp_name>東ティモール</jp_name>
+    <iso_name>Timor-Leste</iso_name>
+    <id_number>626</id_number>
+    <three_digit_id>TLS</three_digit_id>
+    <two_digit_id>TL</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:TL</region>
+    <longitude>125.727539</longitude>
+    <latitude>-8.874217</latitude>
+    <distance>5188</distance>
+  </country>
+  <country>
+    <jp_name>シンガポール</jp_name>
+    <iso_name>Singapore</iso_name>
+    <id_number>702</id_number>
+    <three_digit_id>SGP</three_digit_id>
+    <two_digit_id>SG</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:SG</region>
+    <longitude>103.819836</longitude>
+    <latitude>1.352083</latitude>
+    <distance>5297</distance>
+  </country>
+  <country>
+    <jp_name>キルギス</jp_name>
+    <iso_name>Kyrgyzstan</iso_name>
+    <id_number>417</id_number>
+    <three_digit_id>KGZ</three_digit_id>
+    <two_digit_id>KG</two_digit_id>
+    <location>中央アジア</location>
+    <region>ISO 3166-2:KG</region>
+    <longitude>74.766098</longitude>
+    <latitude>41.20438</latitude>
+    <distance>5550</distance>
+  </country>
+  <country>
+    <jp_name>ソロモン諸島</jp_name>
+    <iso_name>Solomon Islands</iso_name>
+    <id_number>90</id_number>
+    <three_digit_id>SLB</three_digit_id>
+    <two_digit_id>SB</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:SB</region>
+    <longitude>160.156194</longitude>
+    <latitude>-9.64571</latitude>
+    <distance>5600</distance>
+  </country>
+  <country>
+    <jp_name>インドネシア</jp_name>
+    <iso_name>Indonesia</iso_name>
+    <id_number>360</id_number>
+    <three_digit_id>IDN</three_digit_id>
+    <two_digit_id>ID</two_digit_id>
+    <location>東南アジア</location>
+    <region>ISO 3166-2:ID</region>
+    <longitude>106.8859437</longitude>
+    <latitude>-6.3550566</latitude>
+    <distance>5793</distance>
+  </country>
+  <country>
+    <jp_name>タジキスタン</jp_name>
+    <iso_name>Tajikistan</iso_name>
+    <id_number>762</id_number>
+    <three_digit_id>TJK</three_digit_id>
+    <two_digit_id>TJ</two_digit_id>
+    <location>中央アジア</location>
+    <region>ISO 3166-2:TJ</region>
+    <longitude>71.276093</longitude>
+    <latitude>38.861034</latitude>
+    <distance>5927</distance>
+  </country>
+  <country>
+    <jp_name>カザフスタン</jp_name>
+    <iso_name>Kazakhstan</iso_name>
+    <id_number>398</id_number>
+    <three_digit_id>KAZ</three_digit_id>
+    <two_digit_id>KZ</two_digit_id>
+    <location>中央アジア</location>
+    <region>ISO 3166-2:KZ</region>
+    <longitude>66.923684</longitude>
+    <latitude>48.019573</latitude>
+    <distance>6043</distance>
+  </country>
+  <country>
+    <jp_name>インド</jp_name>
+    <iso_name>India</iso_name>
+    <id_number>356</id_number>
+    <three_digit_id>IND</three_digit_id>
+    <two_digit_id>IN</two_digit_id>
+    <location>南アジア</location>
+    <region>ISO 3166-2:IN</region>
+    <longitude>78.96288</longitude>
+    <latitude>20.593684</latitude>
+    <distance>6062</distance>
+  </country>
+  <country>
+    <jp_name>クリスマス島 (オーストラリア)</jp_name>
+    <iso_name>Christmas Island</iso_name>
+    <id_number>162</id_number>
+    <three_digit_id>CXR</three_digit_id>
+    <two_digit_id>CX</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:CX</region>
+    <longitude>105.690449</longitude>
+    <latitude>-10.447525</latitude>
+    <distance>6255</distance>
+  </country>
+  <country>
+    <jp_name>ウズベキスタン</jp_name>
+    <iso_name>Uzbekistan</iso_name>
+    <id_number>860</id_number>
+    <three_digit_id>UZB</three_digit_id>
+    <two_digit_id>UZ</two_digit_id>
+    <location>中央アジア</location>
+    <region>ISO 3166-2:UZ</region>
+    <longitude>64.585262</longitude>
+    <latitude>41.377491</latitude>
+    <distance>6425</distance>
+  </country>
+  <country>
+    <jp_name>アフガニスタン</jp_name>
+    <iso_name>Afghanistan</iso_name>
+    <id_number>4</id_number>
+    <three_digit_id>AFG</three_digit_id>
+    <two_digit_id>AF</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:AF</region>
+    <longitude>67.709953</longitude>
+    <latitude>33.93911</latitude>
+    <distance>6439</distance>
+  </country>
+  <country>
+    <jp_name>パキスタン</jp_name>
+    <iso_name>Pakistan</iso_name>
+    <id_number>586</id_number>
+    <three_digit_id>PAK</three_digit_id>
+    <two_digit_id>PK</two_digit_id>
+    <location>南アジア</location>
+    <region>ISO 3166-2:PK</region>
+    <longitude>69.345116</longitude>
+    <latitude>30.375321</latitude>
+    <distance>6450</distance>
+  </country>
+  <country>
+    <jp_name>バヌアツ</jp_name>
+    <iso_name>Vanuatu</iso_name>
+    <id_number>548</id_number>
+    <three_digit_id>VUT</three_digit_id>
+    <two_digit_id>VU</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:VU</region>
+    <longitude>166.959158</longitude>
+    <latitude>-15.376706</latitude>
+    <distance>6514</distance>
+  </country>
+  <country>
+    <jp_name>スリランカ</jp_name>
+    <iso_name>Sri Lanka</iso_name>
+    <id_number>144</id_number>
+    <three_digit_id>LKA</three_digit_id>
+    <two_digit_id>LK</two_digit_id>
+    <location>南アジア</location>
+    <region>ISO 3166-2:LK</region>
+    <longitude>80.771797</longitude>
+    <latitude>7.873054</latitude>
+    <distance>6712</distance>
+  </country>
+  <country>
+    <jp_name>スヴァールバル諸島およびヤンマイエン島</jp_name>
+    <iso_name>Svalbard and Jan Mayen</iso_name>
+    <id_number>744</id_number>
+    <three_digit_id>SJM</three_digit_id>
+    <two_digit_id>SJ</two_digit_id>
+    <location>北ヨーロッパ</location>
+    <region>ISO 3166-2:SJ</region>
+    <longitude>23.670272</longitude>
+    <latitude>77.553604</latitude>
+    <distance>6816</distance>
+  </country>
+  <country>
+    <jp_name>トルクメニスタン</jp_name>
+    <iso_name>Turkmenistan</iso_name>
+    <id_number>795</id_number>
+    <three_digit_id>TKM</three_digit_id>
+    <two_digit_id>TM</two_digit_id>
+    <location>中央アジア</location>
+    <region>ISO 3166-2:TM</region>
+    <longitude>59.556278</longitude>
+    <latitude>38.969719</latitude>
+    <distance>6855</distance>
+  </country>
+  <country>
+    <jp_name>ツバル</jp_name>
+    <iso_name>Tuvalu</iso_name>
+    <id_number>798</id_number>
+    <three_digit_id>TUV</three_digit_id>
+    <two_digit_id>TV</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:TV</region>
+    <longitude>179.4726562</longitude>
+    <latitude>-10.7280717</latitude>
+    <distance>6957</distance>
+  </country>
+  <country>
+    <jp_name>オーストラリア</jp_name>
+    <iso_name>Australia</iso_name>
+    <id_number>36</id_number>
+    <three_digit_id>AUS</three_digit_id>
+    <two_digit_id>AU</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:AU</region>
+    <longitude>133.775136</longitude>
+    <latitude>-25.274398</latitude>
+    <distance>6998</distance>
+  </country>
+  <country>
+    <jp_name>ココス諸島</jp_name>
+    <iso_name>Cocos (Keeling) Islands</iso_name>
+    <id_number>166</id_number>
+    <three_digit_id>CCK</three_digit_id>
+    <two_digit_id>CC</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:CC</region>
+    <longitude>96.8417392</longitude>
+    <latitude>-12.1707796</latitude>
+    <distance>7000</distance>
+  </country>
+  <country>
+    <jp_name>合衆国領有小離島</jp_name>
+    <iso_name>United States Minor Outlying Islands</iso_name>
+    <id_number>581</id_number>
+    <three_digit_id>UMI</three_digit_id>
+    <two_digit_id>UM</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:UM</region>
+    <longitude>-162.0759229</longitude>
+    <latitude>5.88062</latitude>
+    <distance>7052</distance>
+  </country>
+  <country>
+    <jp_name>ニューカレドニア</jp_name>
+    <iso_name>New Caledonia</iso_name>
+    <id_number>540</id_number>
+    <three_digit_id>NCL</three_digit_id>
+    <two_digit_id>NC</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:NC</region>
+    <longitude>165.618042</longitude>
+    <latitude>-20.904305</latitude>
+    <distance>7344</distance>
+  </country>
+  <country>
+    <jp_name>ウォリス・フツナ</jp_name>
+    <iso_name>Wallis and Futuna</iso_name>
+    <id_number>876</id_number>
+    <three_digit_id>WLF</three_digit_id>
+    <two_digit_id>WF</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:WF</region>
+    <longitude>-178.1165</longitude>
+    <latitude>-14.2938</latitude>
+    <distance>7376</distance>
+  </country>
+  <country>
+    <jp_name>トケラウ</jp_name>
+    <iso_name>Tokelau</iso_name>
+    <id_number>772</id_number>
+    <three_digit_id>TKL</three_digit_id>
+    <two_digit_id>TK</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:TK</region>
+    <longitude>-171.8484</longitude>
+    <latitude>-9.2002</latitude>
+    <distance>7396</distance>
+  </country>
+  <country>
+    <jp_name>フィジー</jp_name>
+    <iso_name>Fiji</iso_name>
+    <id_number>242</id_number>
+    <three_digit_id>FJI</three_digit_id>
+    <two_digit_id>FJ</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:FJ</region>
+    <longitude>178.065032</longitude>
+    <latitude>-17.713371</latitude>
+    <distance>7741</distance>
+  </country>
+  <country>
+    <jp_name>イラン・イスラム共和国</jp_name>
+    <iso_name>Iran, Islamic Republic of</iso_name>
+    <id_number>364</id_number>
+    <three_digit_id>IRN</three_digit_id>
+    <two_digit_id>IR</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:IR</region>
+    <longitude>53.688046</longitude>
+    <latitude>32.427908</latitude>
+    <distance>7771</distance>
+  </country>
+  <country>
+    <jp_name>フィンランド</jp_name>
+    <iso_name>Finland</iso_name>
+    <id_number>246</id_number>
+    <three_digit_id>FIN</three_digit_id>
+    <two_digit_id>FI</two_digit_id>
+    <location>北ヨーロッパ</location>
+    <region>ISO 3166-2:FI</region>
+    <longitude>25.748151</longitude>
+    <latitude>61.92411</latitude>
+    <distance>7793</distance>
+  </country>
+  <country>
+    <jp_name>アゼルバイジャン</jp_name>
+    <iso_name>Azerbaijan</iso_name>
+    <id_number>31</id_number>
+    <three_digit_id>AZE</three_digit_id>
+    <two_digit_id>AZ</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:AZ</region>
+    <longitude>47.576927</longitude>
+    <latitude>40.143105</latitude>
+    <distance>7794</distance>
+  </country>
+  <country>
+    <jp_name>キリバス</jp_name>
+    <iso_name>Kiribati</iso_name>
+    <id_number>296</id_number>
+    <three_digit_id>KIR</three_digit_id>
+    <two_digit_id>KI</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:KI</region>
+    <longitude>-157.3599202</longitude>
+    <latitude>1.8668577</latitude>
+    <distance>7896</distance>
+  </country>
+  <country>
+    <jp_name>サモア</jp_name>
+    <iso_name>Samoa</iso_name>
+    <id_number>882</id_number>
+    <three_digit_id>WSM</three_digit_id>
+    <two_digit_id>WS</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:WS</region>
+    <longitude>-172.104629</longitude>
+    <latitude>-13.759029</latitude>
+    <distance>7933</distance>
+  </country>
+  <country>
+    <jp_name>モルディブ</jp_name>
+    <iso_name>Maldives</iso_name>
+    <id_number>462</id_number>
+    <three_digit_id>MDV</three_digit_id>
+    <two_digit_id>MV</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:MV</region>
+    <longitude>73.5361035</longitude>
+    <latitude>1.9772469</latitude>
+    <distance>7957</distance>
+  </country>
+  <country>
+    <jp_name>グルジア</jp_name>
+    <iso_name>Georgia</iso_name>
+    <id_number>268</id_number>
+    <three_digit_id>GEO</three_digit_id>
+    <two_digit_id>GE</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:GE</region>
+    <longitude>43.356892</longitude>
+    <latitude>42.315407</latitude>
+    <distance>8165</distance>
+  </country>
+  <country>
+    <jp_name>アメリカ領サモア</jp_name>
+    <iso_name>American Samoa</iso_name>
+    <id_number>16</id_number>
+    <three_digit_id>ASM</three_digit_id>
+    <two_digit_id>AS</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:AS</region>
+    <longitude>-170.6962002</longitude>
+    <latitude>-14.305941</latitude>
+    <distance>8183</distance>
+  </country>
+  <country>
+    <jp_name>アルメニア</jp_name>
+    <iso_name>Armenia</iso_name>
+    <id_number>51</id_number>
+    <three_digit_id>ARM</three_digit_id>
+    <two_digit_id>AM</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:AM</region>
+    <longitude>45.038189</longitude>
+    <latitude>40.069099</latitude>
+    <distance>8196</distance>
+  </country>
+  <country>
+    <jp_name>エストニア</jp_name>
+    <iso_name>Estonia</iso_name>
+    <id_number>233</id_number>
+    <three_digit_id>EST</three_digit_id>
+    <two_digit_id>EE</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:EE</region>
+    <longitude>25.013607</longitude>
+    <latitude>58.595272</latitude>
+    <distance>8218</distance>
+  </country>
+  <country>
+    <jp_name>オーランド諸島</jp_name>
+    <iso_name>Åland Islands</iso_name>
+    <id_number>248</id_number>
+    <three_digit_id>ALA</three_digit_id>
+    <two_digit_id>AX</two_digit_id>
+    <location>北ヨーロッパ</location>
+    <region>ISO 3166-2:AX</region>
+    <longitude>20.2712585</longitude>
+    <latitude>60.3385485</latitude>
+    <distance>8281</distance>
+  </country>
+  <country>
+    <jp_name>ノーフォーク島</jp_name>
+    <iso_name>Norfolk Island</iso_name>
+    <id_number>574</id_number>
+    <three_digit_id>NFK</three_digit_id>
+    <two_digit_id>NF</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:NF</region>
+    <longitude>167.954712</longitude>
+    <latitude>-29.040835</latitude>
+    <distance>8364</distance>
+  </country>
+  <country>
+    <jp_name>ラトビア</jp_name>
+    <iso_name>Latvia</iso_name>
+    <id_number>428</id_number>
+    <three_digit_id>LVA</three_digit_id>
+    <two_digit_id>LV</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:LV</region>
+    <longitude>24.603189</longitude>
+    <latitude>56.879635</latitude>
+    <distance>8366</distance>
+  </country>
+  <country>
+    <jp_name>オマーン</jp_name>
+    <iso_name>Oman</iso_name>
+    <id_number>512</id_number>
+    <three_digit_id>OMN</three_digit_id>
+    <two_digit_id>OM</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:OM</region>
+    <longitude>55.923255</longitude>
+    <latitude>21.512583</latitude>
+    <distance>8420</distance>
+  </country>
+  <country>
+    <jp_name>スウェーデン</jp_name>
+    <iso_name>Sweden</iso_name>
+    <id_number>752</id_number>
+    <three_digit_id>SWE</three_digit_id>
+    <two_digit_id>SE</two_digit_id>
+    <location>北ヨーロッパ</location>
+    <region>ISO 3166-2:SE</region>
+    <longitude>18.643501</longitude>
+    <latitude>60.128161</latitude>
+    <distance>8438</distance>
+  </country>
+  <country>
+    <jp_name>ベラルーシ</jp_name>
+    <iso_name>Belarus</iso_name>
+    <id_number>112</id_number>
+    <three_digit_id>BLR</three_digit_id>
+    <two_digit_id>BY</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:BY</region>
+    <longitude>27.953389</longitude>
+    <latitude>53.709807</latitude>
+    <distance>8540</distance>
+  </country>
+  <country>
+    <jp_name>グリーンランド</jp_name>
+    <iso_name>Greenland</iso_name>
+    <id_number>304</id_number>
+    <three_digit_id>GRL</three_digit_id>
+    <two_digit_id>GL</two_digit_id>
+    <location>北ヨーロッパ</location>
+    <region>ISO 3166-2:GL</region>
+    <longitude>-42.604303</longitude>
+    <latitude>71.706936</latitude>
+    <distance>8578</distance>
+  </country>
+  <country>
+    <jp_name>アラブ首長国連邦</jp_name>
+    <iso_name>United Arab Emirates</iso_name>
+    <id_number>784</id_number>
+    <three_digit_id>ARE</three_digit_id>
+    <two_digit_id>AE</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:AE</region>
+    <longitude>53.847818</longitude>
+    <latitude>23.424076</latitude>
+    <distance>8669</distance>
+  </country>
+  <country>
+    <jp_name>トンガ</jp_name>
+    <iso_name>Tonga</iso_name>
+    <id_number>776</id_number>
+    <three_digit_id>TON</three_digit_id>
+    <two_digit_id>TO</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:TO</region>
+    <longitude>-175.198242</longitude>
+    <latitude>-21.178986</latitude>
+    <distance>8704</distance>
+  </country>
+  <country>
+    <jp_name>カナダ</jp_name>
+    <iso_name>Canada</iso_name>
+    <id_number>124</id_number>
+    <three_digit_id>CAN</three_digit_id>
+    <two_digit_id>CA</two_digit_id>
+    <location>北アメリカ</location>
+    <region>ISO 3166-2:CA</region>
+    <longitude>-106.346771</longitude>
+    <latitude>56.130366</latitude>
+    <distance>8903</distance>
+  </country>
+  <country>
+    <jp_name>リトアニア</jp_name>
+    <iso_name>Lithuania</iso_name>
+    <id_number>440</id_number>
+    <three_digit_id>LTU</three_digit_id>
+    <two_digit_id>LT</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:LT</region>
+    <longitude>23.881275</longitude>
+    <latitude>55.169438</latitude>
+    <distance>8917</distance>
+  </country>
+  <country>
+    <jp_name>カタール</jp_name>
+    <iso_name>Qatar</iso_name>
+    <id_number>634</id_number>
+    <three_digit_id>QAT</three_digit_id>
+    <two_digit_id>QA</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:QA</region>
+    <longitude>51.183884</longitude>
+    <latitude>25.354826</latitude>
+    <distance>8934</distance>
+  </country>
+  <country>
+    <jp_name>バーレーン</jp_name>
+    <iso_name>Bahrain</iso_name>
+    <id_number>48</id_number>
+    <three_digit_id>BHR</three_digit_id>
+    <two_digit_id>BH</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:BH</region>
+    <longitude>50.5577</longitude>
+    <latitude>26.0667</latitude>
+    <distance>9006</distance>
+  </country>
+  <country>
+    <jp_name>ウクライナ</jp_name>
+    <iso_name>Ukraine</iso_name>
+    <id_number>804</id_number>
+    <three_digit_id>UKR</three_digit_id>
+    <two_digit_id>UA</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:UA</region>
+    <longitude>31.16558</longitude>
+    <latitude>48.379433</latitude>
+    <distance>9015</distance>
+  </country>
+  <country>
+    <jp_name>クウェート</jp_name>
+    <iso_name>Kuwait</iso_name>
+    <id_number>414</id_number>
+    <three_digit_id>KWT</three_digit_id>
+    <two_digit_id>KW</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:KW</region>
+    <longitude>47.481766</longitude>
+    <latitude>29.31166</latitude>
+    <distance>9089</distance>
+  </country>
+  <country>
+    <jp_name>ニウエ</jp_name>
+    <iso_name>Niue</iso_name>
+    <id_number>570</id_number>
+    <three_digit_id>NIU</three_digit_id>
+    <two_digit_id>NU</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:NU</region>
+    <longitude>-169.867233</longitude>
+    <latitude>-19.054445</latitude>
+    <distance>9103</distance>
+  </country>
+  <country>
+    <jp_name>イラク</jp_name>
+    <iso_name>Iraq</iso_name>
+    <id_number>368</id_number>
+    <three_digit_id>IRQ</three_digit_id>
+    <two_digit_id>IQ</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:IQ</region>
+    <longitude>43.679291</longitude>
+    <latitude>33.223191</latitude>
+    <distance>9155</distance>
+  </country>
+  <country>
+    <jp_name>ノルウェー</jp_name>
+    <iso_name>Norway</iso_name>
+    <id_number>578</id_number>
+    <three_digit_id>NOR</three_digit_id>
+    <two_digit_id>NO</two_digit_id>
+    <location>北ヨーロッパ</location>
+    <region>ISO 3166-2:NO</region>
+    <longitude>8.468946</longitude>
+    <latitude>60.472024</latitude>
+    <distance>9160</distance>
+  </country>
+  <country>
+    <jp_name>イギリス領インド洋地域</jp_name>
+    <iso_name>British Indian Ocean Territory</iso_name>
+    <id_number>86</id_number>
+    <three_digit_id>IOT</three_digit_id>
+    <two_digit_id>IO</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:IO</region>
+    <longitude>72.4242325</longitude>
+    <latitude>-7.3347556</latitude>
+    <distance>9183</distance>
+  </country>
+  <country>
+    <jp_name>モルドバ</jp_name>
+    <iso_name>Moldova, Republic of</iso_name>
+    <id_number>498</id_number>
+    <three_digit_id>MDA</three_digit_id>
+    <two_digit_id>MD</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:MD</region>
+    <longitude>28.369885</longitude>
+    <latitude>47.411631</latitude>
+    <distance>9215</distance>
+  </country>
+  <country>
+    <jp_name>シリア・アラブ共和国</jp_name>
+    <iso_name>Syrian Arab Republic</iso_name>
+    <id_number>760</id_number>
+    <three_digit_id>SYR</three_digit_id>
+    <two_digit_id>SY</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:SY</region>
+    <longitude>38.996815</longitude>
+    <latitude>34.802075</latitude>
+    <distance>9279</distance>
+  </country>
+  <country>
+    <jp_name>トルコ</jp_name>
+    <iso_name>Turkey</iso_name>
+    <id_number>792</id_number>
+    <three_digit_id>TUR</three_digit_id>
+    <two_digit_id>TR</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:TR</region>
+    <longitude>35.243322</longitude>
+    <latitude>38.963745</latitude>
+    <distance>9286</distance>
+  </country>
+  <country>
+    <jp_name>ポーランド</jp_name>
+    <iso_name>Poland</iso_name>
+    <id_number>616</id_number>
+    <three_digit_id>POL</three_digit_id>
+    <two_digit_id>PL</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:PL</region>
+    <longitude>19.145136</longitude>
+    <latitude>51.919438</latitude>
+    <distance>9334</distance>
+  </country>
+  <country>
+    <jp_name>アイスランド</jp_name>
+    <iso_name>Iceland</iso_name>
+    <id_number>352</id_number>
+    <three_digit_id>ISL</three_digit_id>
+    <two_digit_id>IS</two_digit_id>
+    <location>北ヨーロッパ</location>
+    <region>ISO 3166-2:IS</region>
+    <longitude>-19.020835</longitude>
+    <latitude>64.963051</latitude>
+    <distance>9347</distance>
+  </country>
+  <country>
+    <jp_name>デンマーク</jp_name>
+    <iso_name>Denmark</iso_name>
+    <id_number>208</id_number>
+    <three_digit_id>DNK</three_digit_id>
+    <two_digit_id>DK</two_digit_id>
+    <location>北ヨーロッパ</location>
+    <region>ISO 3166-2:DK</region>
+    <longitude>9.501785</longitude>
+    <latitude>56.26392</latitude>
+    <distance>9449</distance>
+  </country>
+  <country>
+    <jp_name>フェロー諸島</jp_name>
+    <iso_name>Faroe Islands</iso_name>
+    <id_number>234</id_number>
+    <three_digit_id>FRO</three_digit_id>
+    <two_digit_id>FO</two_digit_id>
+    <location>北ヨーロッパ</location>
+    <region>ISO 3166-2:FO</region>
+    <longitude>-6.911806</longitude>
+    <latitude>61.892635</latitude>
+    <distance>9491</distance>
+  </country>
+  <country>
+    <jp_name>ルーマニア</jp_name>
+    <iso_name>Romania</iso_name>
+    <id_number>642</id_number>
+    <three_digit_id>ROU</three_digit_id>
+    <two_digit_id>RO</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:RO</region>
+    <longitude>24.96676</longitude>
+    <latitude>45.943161</latitude>
+    <distance>9511</distance>
+  </country>
+  <country>
+    <jp_name>サウジアラビア</jp_name>
+    <iso_name>Saudi Arabia</iso_name>
+    <id_number>682</id_number>
+    <three_digit_id>SAU</three_digit_id>
+    <two_digit_id>SA</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:SA</region>
+    <longitude>45.079162</longitude>
+    <latitude>23.885942</latitude>
+    <distance>9581</distance>
+  </country>
+  <country>
+    <jp_name>スロバキア</jp_name>
+    <iso_name>Slovakia</iso_name>
+    <id_number>703</id_number>
+    <three_digit_id>SVK</three_digit_id>
+    <two_digit_id>SK</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:SK</region>
+    <longitude>19.699024</longitude>
+    <latitude>48.669026</latitude>
+    <distance>9611</distance>
+  </country>
+  <country>
+    <jp_name>レバノン</jp_name>
+    <iso_name>Lebanon</iso_name>
+    <id_number>422</id_number>
+    <three_digit_id>LBN</three_digit_id>
+    <two_digit_id>LB</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:LB</region>
+    <longitude>35.862285</longitude>
+    <latitude>33.854721</latitude>
+    <distance>9701</distance>
+  </country>
+  <country>
+    <jp_name>ブルガリア</jp_name>
+    <iso_name>Bulgaria</iso_name>
+    <id_number>100</id_number>
+    <three_digit_id>BGR</three_digit_id>
+    <two_digit_id>BG</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:BG</region>
+    <longitude>25.48583</longitude>
+    <latitude>42.733883</latitude>
+    <distance>9730</distance>
+  </country>
+  <country>
+    <jp_name>キプロス</jp_name>
+    <iso_name>Cyprus</iso_name>
+    <id_number>196</id_number>
+    <three_digit_id>CYP</three_digit_id>
+    <two_digit_id>CY</two_digit_id>
+    <location>地中海地域</location>
+    <region>ISO 3166-2:CY</region>
+    <longitude>33.429859</longitude>
+    <latitude>35.126413</latitude>
+    <distance>9852</distance>
+  </country>
+  <country>
+    <jp_name>チェコ</jp_name>
+    <iso_name>Czech Republic</iso_name>
+    <id_number>203</id_number>
+    <three_digit_id>CZE</three_digit_id>
+    <two_digit_id>CZ</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:CZ</region>
+    <longitude>15.472962</longitude>
+    <latitude>49.817492</latitude>
+    <distance>9934</distance>
+  </country>
+  <country>
+    <jp_name>ハンガリー</jp_name>
+    <iso_name>Hungary</iso_name>
+    <id_number>348</id_number>
+    <three_digit_id>HUN</three_digit_id>
+    <two_digit_id>HU</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:HU</region>
+    <longitude>19.503304</longitude>
+    <latitude>47.162494</latitude>
+    <distance>9955</distance>
+  </country>
+  <country>
+    <jp_name>イエメン</jp_name>
+    <iso_name>Yemen</iso_name>
+    <id_number>887</id_number>
+    <three_digit_id>YEM</three_digit_id>
+    <two_digit_id>YE</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:YE</region>
+    <longitude>48.516388</longitude>
+    <latitude>15.552727</latitude>
+    <distance>9961</distance>
+  </country>
+  <country>
+    <jp_name>ヨルダン</jp_name>
+    <iso_name>Jordan</iso_name>
+    <id_number>400</id_number>
+    <three_digit_id>JOR</three_digit_id>
+    <two_digit_id>JO</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:JO</region>
+    <longitude>36.238414</longitude>
+    <latitude>30.585164</latitude>
+    <distance>9992</distance>
+  </country>
+  <country>
+    <jp_name>ドイツ</jp_name>
+    <iso_name>Germany</iso_name>
+    <id_number>276</id_number>
+    <three_digit_id>DEU</three_digit_id>
+    <two_digit_id>DE</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:DE</region>
+    <longitude>10.451526</longitude>
+    <latitude>51.165691</latitude>
+    <distance>10033</distance>
+  </country>
+  <country>
+    <jp_name>セルビア</jp_name>
+    <iso_name>Serbia</iso_name>
+    <id_number>688</id_number>
+    <three_digit_id>SRB</three_digit_id>
+    <two_digit_id>RS</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:RS</region>
+    <longitude>21.005859</longitude>
+    <latitude>44.016521</latitude>
+    <distance>10100</distance>
+  </country>
+  <country>
+    <jp_name>イスラエル</jp_name>
+    <iso_name>Israel</iso_name>
+    <id_number>376</id_number>
+    <three_digit_id>ISR</three_digit_id>
+    <two_digit_id>IL</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:IL</region>
+    <longitude>34.851612</longitude>
+    <latitude>31.046051</latitude>
+    <distance>10123</distance>
+  </country>
+  <country>
+    <jp_name>クック諸島</jp_name>
+    <iso_name>Cook Islands</iso_name>
+    <id_number>184</id_number>
+    <three_digit_id>COK</three_digit_id>
+    <two_digit_id>CK</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:CK</region>
+    <longitude>-159.777671</longitude>
+    <latitude>-21.236736</latitude>
+    <distance>10123</distance>
+  </country>
+  <country>
+    <jp_name>オーストリア</jp_name>
+    <iso_name>Austria</iso_name>
+    <id_number>40</id_number>
+    <three_digit_id>AUT</three_digit_id>
+    <two_digit_id>AT</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:AT</region>
+    <longitude>14.550072</longitude>
+    <latitude>47.516231</latitude>
+    <distance>10154</distance>
+  </country>
+  <country>
+    <jp_name>オランダ</jp_name>
+    <iso_name>Netherlands</iso_name>
+    <id_number>528</id_number>
+    <three_digit_id>NLD</three_digit_id>
+    <two_digit_id>NL</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:NL</region>
+    <longitude>5.291266</longitude>
+    <latitude>52.132633</latitude>
+    <distance>10178</distance>
+  </country>
+  <country>
+    <jp_name>イギリス</jp_name>
+    <iso_name>United Kingdom</iso_name>
+    <id_number>826</id_number>
+    <three_digit_id>GBR</three_digit_id>
+    <two_digit_id>GB</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:GB</region>
+    <longitude>-3.435973</longitude>
+    <latitude>55.378051</latitude>
+    <distance>10188</distance>
+  </country>
+  <country>
+    <jp_name>マケドニア共和国</jp_name>
+    <iso_name>Macedonia, the former Yugoslav Republic of</iso_name>
+    <id_number>807</id_number>
+    <three_digit_id>MKD</three_digit_id>
+    <two_digit_id>MK</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:MK</region>
+    <longitude>21.745275</longitude>
+    <latitude>41.608635</latitude>
+    <distance>10256</distance>
+  </country>
+  <country>
+    <jp_name>スロベニア</jp_name>
+    <iso_name>Slovenia</iso_name>
+    <id_number>705</id_number>
+    <three_digit_id>SVN</three_digit_id>
+    <two_digit_id>SI</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:SI</region>
+    <longitude>14.995463</longitude>
+    <latitude>46.151241</latitude>
+    <distance>10259</distance>
+  </country>
+  <country>
+    <jp_name>モンテネグロ</jp_name>
+    <iso_name>Montenegro</iso_name>
+    <id_number>499</id_number>
+    <three_digit_id>MNE</three_digit_id>
+    <two_digit_id>ME</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:ME</region>
+    <longitude>19.37439</longitude>
+    <latitude>42.708678</latitude>
+    <distance>10280</distance>
+  </country>
+  <country>
+    <jp_name>ボスニア・ヘルツェゴビナ</jp_name>
+    <iso_name>Bosnia and Herzegovina</iso_name>
+    <id_number>70</id_number>
+    <three_digit_id>BIH</three_digit_id>
+    <two_digit_id>BA</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:BA</region>
+    <longitude>17.679076</longitude>
+    <latitude>43.915886</latitude>
+    <distance>10289</distance>
+  </country>
+  <country>
+    <jp_name>クロアチア</jp_name>
+    <iso_name>Croatia</iso_name>
+    <id_number>191</id_number>
+    <three_digit_id>HRV</three_digit_id>
+    <two_digit_id>HR</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:HR</region>
+    <longitude>15.2</longitude>
+    <latitude>45.1</latitude>
+    <distance>10322</distance>
+  </country>
+  <country>
+    <jp_name>マン島</jp_name>
+    <iso_name>Isle of Man</iso_name>
+    <id_number>833</id_number>
+    <three_digit_id>IMN</three_digit_id>
+    <two_digit_id>IM</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:IM</region>
+    <longitude>-4.548056</longitude>
+    <latitude>54.236107</latitude>
+    <distance>10347</distance>
+  </country>
+  <country>
+    <jp_name>アルバニア</jp_name>
+    <iso_name>Albania</iso_name>
+    <id_number>8</id_number>
+    <three_digit_id>ALB</three_digit_id>
+    <two_digit_id>AL</two_digit_id>
+    <location>東ヨーロッパ</location>
+    <region>ISO 3166-2:AL</region>
+    <longitude>20.168331</longitude>
+    <latitude>41.153332</latitude>
+    <distance>10401</distance>
+  </country>
+  <country>
+    <jp_name>ニュージーランド</jp_name>
+    <iso_name>New Zealand</iso_name>
+    <id_number>554</id_number>
+    <three_digit_id>NZL</three_digit_id>
+    <two_digit_id>NZ</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:NZ</region>
+    <longitude>174.885971</longitude>
+    <latitude>-40.900557</latitude>
+    <distance>10437</distance>
+  </country>
+  <country>
+    <jp_name>ルクセンブルク</jp_name>
+    <iso_name>Luxembourg</iso_name>
+    <id_number>442</id_number>
+    <three_digit_id>LUX</three_digit_id>
+    <two_digit_id>LU</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:LU</region>
+    <longitude>6.129583</longitude>
+    <latitude>49.815273</latitude>
+    <distance>10454</distance>
+  </country>
+  <country>
+    <jp_name>ベルギー</jp_name>
+    <iso_name>Belgium</iso_name>
+    <id_number>56</id_number>
+    <three_digit_id>BEL</three_digit_id>
+    <two_digit_id>BE</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:BE</region>
+    <longitude>4.469936</longitude>
+    <latitude>50.503887</latitude>
+    <distance>10484</distance>
+  </country>
+  <country>
+    <jp_name>ギリシャ</jp_name>
+    <iso_name>Greece</iso_name>
+    <id_number>300</id_number>
+    <three_digit_id>GRC</three_digit_id>
+    <two_digit_id>GR</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:GR</region>
+    <longitude>21.824312</longitude>
+    <latitude>39.074208</latitude>
+    <distance>10764</distance>
+  </country>
+  <country>
+    <jp_name>リヒテンシュタイン</jp_name>
+    <iso_name>Liechtenstein</iso_name>
+    <id_number>438</id_number>
+    <three_digit_id>LIE</three_digit_id>
+    <two_digit_id>LI</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:LI</region>
+    <longitude>9.555373</longitude>
+    <latitude>47.166</latitude>
+    <distance>10780</distance>
+  </country>
+  <country>
+    <jp_name>イギリス領ヴァージン諸島</jp_name>
+    <iso_name>Virgin Islands, British</iso_name>
+    <id_number>92</id_number>
+    <three_digit_id>VGB</three_digit_id>
+    <two_digit_id>VG</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:VG</region>
+    <longitude>-0.1550716</longitude>
+    <latitude>51.510691</latitude>
+    <distance>10783</distance>
+  </country>
+  <country>
+    <jp_name>スイス</jp_name>
+    <iso_name>Switzerland</iso_name>
+    <id_number>756</id_number>
+    <three_digit_id>CHE</three_digit_id>
+    <two_digit_id>CH</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:CH</region>
+    <longitude>8.227512</longitude>
+    <latitude>46.818188</latitude>
+    <distance>10876</distance>
+  </country>
+  <country>
+    <jp_name>アイルランド</jp_name>
+    <iso_name>Ireland</iso_name>
+    <id_number>372</id_number>
+    <three_digit_id>IRL</three_digit_id>
+    <two_digit_id>IE</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:IE</region>
+    <longitude>-8.24389</longitude>
+    <latitude>53.41291</latitude>
+    <distance>10877</distance>
+  </country>
+  <country>
+    <jp_name>サンマリノ</jp_name>
+    <iso_name>San Marino</iso_name>
+    <id_number>674</id_number>
+    <three_digit_id>SMR</three_digit_id>
+    <two_digit_id>SM</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:SM</region>
+    <longitude>12.457777</longitude>
+    <latitude>43.94236</latitude>
+    <distance>10899</distance>
+  </country>
+  <country>
+    <jp_name>フランス領ポリネシア</jp_name>
+    <iso_name>French Polynesia</iso_name>
+    <id_number>258</id_number>
+    <three_digit_id>PYF</three_digit_id>
+    <two_digit_id>PF</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:PF</region>
+    <longitude>-149.406843</longitude>
+    <latitude>-17.679742</latitude>
+    <distance>10907</distance>
+  </country>
+  <country>
+    <jp_name>セーシェル</jp_name>
+    <iso_name>Seychelles</iso_name>
+    <id_number>690</id_number>
+    <three_digit_id>SYC</three_digit_id>
+    <two_digit_id>SC</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:SC</region>
+    <longitude>55.491977</longitude>
+    <latitude>-4.679574</latitude>
+    <distance>10918</distance>
+  </country>
+  <country>
+    <jp_name>エジプト</jp_name>
+    <iso_name>Egypt</iso_name>
+    <id_number>818</id_number>
+    <three_digit_id>EGY</three_digit_id>
+    <two_digit_id>EG</two_digit_id>
+    <location>北アフリカ</location>
+    <region>ISO 3166-2:EG</region>
+    <longitude>30.802498</longitude>
+    <latitude>26.820553</latitude>
+    <distance>10961</distance>
+  </country>
+  <country>
+    <jp_name>イタリア</jp_name>
+    <iso_name>Italy</iso_name>
+    <id_number>380</id_number>
+    <three_digit_id>ITA</three_digit_id>
+    <two_digit_id>IT</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:IT</region>
+    <longitude>12.56738</longitude>
+    <latitude>41.87194</latitude>
+    <distance>10989</distance>
+  </country>
+  <country>
+    <jp_name>ジブチ</jp_name>
+    <iso_name>Djibouti</iso_name>
+    <id_number>262</id_number>
+    <three_digit_id>DJI</three_digit_id>
+    <two_digit_id>DJ</two_digit_id>
+    <location>東アフリカ</location>
+    <region>ISO 3166-2:DJ</region>
+    <longitude>42.590275</longitude>
+    <latitude>11.825138</latitude>
+    <distance>11113</distance>
+  </country>
+  <country>
+    <jp_name>バチカン</jp_name>
+    <iso_name>Holy See (Vatican City State)</iso_name>
+    <id_number>336</id_number>
+    <three_digit_id>VAT</three_digit_id>
+    <two_digit_id>VA</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:VA</region>
+    <longitude>12.4512287</longitude>
+    <latitude>41.9024331</latitude>
+    <distance>11159</distance>
+  </country>
+  <country>
+    <jp_name>ガーンジー</jp_name>
+    <iso_name>Guernsey</iso_name>
+    <id_number>831</id_number>
+    <three_digit_id>GGY</three_digit_id>
+    <two_digit_id>GG</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:GG</region>
+    <longitude>-2.585278</longitude>
+    <latitude>49.465691</latitude>
+    <distance>11207</distance>
+  </country>
+  <country>
+    <jp_name>ジャージー</jp_name>
+    <iso_name>Jersey</iso_name>
+    <id_number>832</id_number>
+    <three_digit_id>JEY</three_digit_id>
+    <two_digit_id>JE</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:JE</region>
+    <longitude>-2.13125</longitude>
+    <latitude>49.214439</latitude>
+    <distance>11221</distance>
+  </country>
+  <country>
+    <jp_name>エリトリア</jp_name>
+    <iso_name>Eritrea</iso_name>
+    <id_number>232</id_number>
+    <three_digit_id>ERI</three_digit_id>
+    <two_digit_id>ER</two_digit_id>
+    <location>東アフリカ</location>
+    <region>ISO 3166-2:ER</region>
+    <longitude>39.782334</longitude>
+    <latitude>15.179384</latitude>
+    <distance>11248</distance>
+  </country>
+  <country>
+    <jp_name>モナコ</jp_name>
+    <iso_name>Monaco</iso_name>
+    <id_number>492</id_number>
+    <three_digit_id>MCO</three_digit_id>
+    <two_digit_id>MC</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:MC</region>
+    <longitude>7.4246158</longitude>
+    <latitude>43.7384176</latitude>
+    <distance>11256</distance>
+  </country>
+  <country>
+    <jp_name>フランス</jp_name>
+    <iso_name>France</iso_name>
+    <id_number>250</id_number>
+    <three_digit_id>FRA</three_digit_id>
+    <two_digit_id>FR</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:FR</region>
+    <longitude>2.213749</longitude>
+    <latitude>46.227638</latitude>
+    <distance>11270</distance>
+  </country>
+  <country>
+    <jp_name>ソマリア</jp_name>
+    <iso_name>Somalia</iso_name>
+    <id_number>706</id_number>
+    <three_digit_id>SOM</three_digit_id>
+    <two_digit_id>SO</two_digit_id>
+    <location>東アフリカ</location>
+    <region>ISO 3166-2:SO</region>
+    <longitude>46.199616</longitude>
+    <latitude>5.152149</latitude>
+    <distance>11353</distance>
+  </country>
+  <country>
+    <jp_name>エチオピア</jp_name>
+    <iso_name>Ethiopia</iso_name>
+    <id_number>231</id_number>
+    <three_digit_id>ETH</three_digit_id>
+    <two_digit_id>ET</two_digit_id>
+    <location>東アフリカ</location>
+    <region>ISO 3166-2:ET</region>
+    <longitude>40.489673</longitude>
+    <latitude>9.145</latitude>
+    <distance>11393</distance>
+  </country>
+  <country>
+    <jp_name>マルタ</jp_name>
+    <iso_name>Malta</iso_name>
+    <id_number>470</id_number>
+    <three_digit_id>MLT</three_digit_id>
+    <two_digit_id>MT</two_digit_id>
+    <location>地中海地域</location>
+    <region>ISO 3166-2:MT</region>
+    <longitude>14.375416</longitude>
+    <latitude>35.937496</latitude>
+    <distance>11462</distance>
+  </country>
+  <country>
+    <jp_name>アメリカ合衆国</jp_name>
+    <iso_name>United States</iso_name>
+    <id_number>840</id_number>
+    <three_digit_id>USA</three_digit_id>
+    <two_digit_id>US</two_digit_id>
+    <location>北アメリカ</location>
+    <region>ISO 3166-2:US</region>
+    <longitude>-95.712891</longitude>
+    <latitude>37.09024</latitude>
+    <distance>11507</distance>
+  </country>
+  <country>
+    <jp_name>アンドラ</jp_name>
+    <iso_name>Andorra</iso_name>
+    <id_number>20</id_number>
+    <three_digit_id>AND</three_digit_id>
+    <two_digit_id>AD</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:AD</region>
+    <longitude>1.521801</longitude>
+    <latitude>42.506285</latitude>
+    <distance>11577</distance>
+  </country>
+  <country>
+    <jp_name>モーリシャス</jp_name>
+    <iso_name>Mauritius</iso_name>
+    <id_number>480</id_number>
+    <three_digit_id>MUS</three_digit_id>
+    <two_digit_id>MU</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:MU</region>
+    <longitude>57.552152</longitude>
+    <latitude>-20.348404</latitude>
+    <distance>11585</distance>
+  </country>
+  <country>
+    <jp_name>チュニジア</jp_name>
+    <iso_name>Tunisia</iso_name>
+    <id_number>788</id_number>
+    <three_digit_id>TUN</three_digit_id>
+    <two_digit_id>TN</two_digit_id>
+    <location>北アフリカ</location>
+    <region>ISO 3166-2:TN</region>
+    <longitude>9.537499</longitude>
+    <latitude>33.886917</latitude>
+    <distance>11588</distance>
+  </country>
+  <country>
+    <jp_name>スペイン</jp_name>
+    <iso_name>Spain</iso_name>
+    <id_number>724</id_number>
+    <three_digit_id>ESP</three_digit_id>
+    <two_digit_id>ES</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:ES</region>
+    <longitude>-3.74922</longitude>
+    <latitude>40.463667</latitude>
+    <distance>11591</distance>
+  </country>
+  <country>
+    <jp_name>パレスチナ</jp_name>
+    <iso_name>Palestinian Territory, Occupied</iso_name>
+    <id_number>275</id_number>
+    <three_digit_id>PSE</three_digit_id>
+    <two_digit_id>PS</two_digit_id>
+    <location>中東</location>
+    <region>ISO 3166-2:PS</region>
+    <longitude>-3.9932305</longitude>
+    <latitude>40.5770999</latitude>
+    <distance>11593</distance>
+  </country>
+  <country>
+    <jp_name>サンピエール島・ミクロン島</jp_name>
+    <iso_name>Saint Pierre and Miquelon</iso_name>
+    <id_number>666</id_number>
+    <three_digit_id>SPM</three_digit_id>
+    <two_digit_id>PM</two_digit_id>
+    <location>北アメリカ</location>
+    <region>ISO 3166-2:PM</region>
+    <longitude>-56.3159</longitude>
+    <latitude>46.8852</latitude>
+    <distance>11603</distance>
+  </country>
+  <country>
+    <jp_name>リビア</jp_name>
+    <iso_name>Libya</iso_name>
+    <id_number>434</id_number>
+    <three_digit_id>LBY</three_digit_id>
+    <two_digit_id>LY</two_digit_id>
+    <location>北アフリカ</location>
+    <region>ISO 3166-2:LY</region>
+    <longitude>17.228331</longitude>
+    <latitude>26.3351</latitude>
+    <distance>11608</distance>
+  </country>
+  <country>
+    <jp_name>スーダン</jp_name>
+    <iso_name>Sudan</iso_name>
+    <id_number>729</id_number>
+    <three_digit_id>SDN</three_digit_id>
+    <two_digit_id>SD</two_digit_id>
+    <location>東アフリカ</location>
+    <region>ISO 3166-2:SD</region>
+    <longitude>30.217636</longitude>
+    <latitude>12.862807</latitude>
+    <distance>11745</distance>
+  </country>
+  <country>
+    <jp_name>レユニオン</jp_name>
+    <iso_name>Réunion</iso_name>
+    <id_number>638</id_number>
+    <three_digit_id>REU</three_digit_id>
+    <two_digit_id>RE</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:RE</region>
+    <longitude>55.536384</longitude>
+    <latitude>-21.115141</latitude>
+    <distance>11746</distance>
+  </country>
+  <country>
+    <jp_name>メキシコ</jp_name>
+    <iso_name>Mexico</iso_name>
+    <id_number>484</id_number>
+    <three_digit_id>MEX</three_digit_id>
+    <two_digit_id>MX</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:MX</region>
+    <longitude>-102.552784</longitude>
+    <latitude>23.634501</latitude>
+    <distance>11751</distance>
+  </country>
+  <country>
+    <jp_name>ポルトガル</jp_name>
+    <iso_name>Portugal</iso_name>
+    <id_number>620</id_number>
+    <three_digit_id>PRT</three_digit_id>
+    <two_digit_id>PT</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:PT</region>
+    <longitude>-8.224454</longitude>
+    <latitude>39.399872</latitude>
+    <distance>11805</distance>
+  </country>
+  <country>
+    <jp_name>ケニア</jp_name>
+    <iso_name>Kenya</iso_name>
+    <id_number>404</id_number>
+    <three_digit_id>KEN</three_digit_id>
+    <two_digit_id>KE</two_digit_id>
+    <location>東アフリカ</location>
+    <region>ISO 3166-2:KE</region>
+    <longitude>37.906193</longitude>
+    <latitude>-0.023559</latitude>
+    <distance>11817</distance>
+  </country>
+  <country>
+    <jp_name>南スーダン</jp_name>
+    <iso_name>South Sudan</iso_name>
+    <id_number>728</id_number>
+    <three_digit_id>SSD</three_digit_id>
+    <two_digit_id>SS</two_digit_id>
+    <location>東アフリカ</location>
+    <region>ISO 3166-2:SS</region>
+    <longitude>30.1589303</longitude>
+    <latitude>7.9630921</latitude>
+    <distance>12142</distance>
+  </country>
+  <country>
+    <jp_name>マヨット</jp_name>
+    <iso_name>Mayotte</iso_name>
+    <id_number>175</id_number>
+    <three_digit_id>MYT</three_digit_id>
+    <two_digit_id>YT</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:YT</region>
+    <longitude>45.166244</longitude>
+    <latitude>-12.8275</latitude>
+    <distance>12180</distance>
+  </country>
+  <country>
+    <jp_name>ジブラルタル</jp_name>
+    <iso_name>Gibraltar</iso_name>
+    <id_number>292</id_number>
+    <three_digit_id>GIB</three_digit_id>
+    <two_digit_id>GI</two_digit_id>
+    <location>西ヨーロッパ</location>
+    <region>ISO 3166-2:GI</region>
+    <longitude>-5.353585</longitude>
+    <latitude>36.140751</latitude>
+    <distance>12201</distance>
+  </country>
+  <country>
+    <jp_name>コモロ</jp_name>
+    <iso_name>Comoros</iso_name>
+    <id_number>174</id_number>
+    <three_digit_id>COM</three_digit_id>
+    <two_digit_id>KM</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:KM</region>
+    <longitude>43.3333</longitude>
+    <latitude>-11.6455</latitude>
+    <distance>12281</distance>
+  </country>
+  <country>
+    <jp_name>ウガンダ</jp_name>
+    <iso_name>Uganda</iso_name>
+    <id_number>800</id_number>
+    <three_digit_id>UGA</three_digit_id>
+    <two_digit_id>UG</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:UG</region>
+    <longitude>32.290275</longitude>
+    <latitude>1.373333</latitude>
+    <distance>12324</distance>
+  </country>
+  <country>
+    <jp_name>マダガスカル</jp_name>
+    <iso_name>Madagascar</iso_name>
+    <id_number>450</id_number>
+    <three_digit_id>MDG</three_digit_id>
+    <two_digit_id>MG</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:MG</region>
+    <longitude>46.869107</longitude>
+    <latitude>-18.766947</latitude>
+    <distance>12372</distance>
+  </country>
+  <country>
+    <jp_name>チャド</jp_name>
+    <iso_name>Chad</iso_name>
+    <id_number>148</id_number>
+    <three_digit_id>TCD</three_digit_id>
+    <two_digit_id>TD</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:TD</region>
+    <longitude>18.732207</longitude>
+    <latitude>15.454166</latitude>
+    <distance>12405</distance>
+  </country>
+  <country>
+    <jp_name>アルジェリア</jp_name>
+    <iso_name>Algeria</iso_name>
+    <id_number>12</id_number>
+    <three_digit_id>DZA</three_digit_id>
+    <two_digit_id>DZ</two_digit_id>
+    <location>北アフリカ</location>
+    <region>ISO 3166-2:DZ</region>
+    <longitude>1.659626</longitude>
+    <latitude>28.033886</latitude>
+    <distance>12424</distance>
+  </country>
+  <country>
+    <jp_name>モロッコ</jp_name>
+    <iso_name>Morocco</iso_name>
+    <id_number>504</id_number>
+    <three_digit_id>MAR</three_digit_id>
+    <two_digit_id>MA</two_digit_id>
+    <location>北アフリカ</location>
+    <region>ISO 3166-2:MA</region>
+    <longitude>-7.09262</longitude>
+    <latitude>31.791702</latitude>
+    <distance>12436</distance>
+  </country>
+  <country>
+    <jp_name>フランス領南方・南極地域</jp_name>
+    <iso_name>French Southern Territories</iso_name>
+    <id_number>260</id_number>
+    <three_digit_id>ATF</three_digit_id>
+    <two_digit_id>TF</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:TF</region>
+    <longitude>69.348557</longitude>
+    <latitude>-49.280366</latitude>
+    <distance>12592</distance>
+  </country>
+  <country>
+    <jp_name>ハード島とマクドナルド諸島</jp_name>
+    <iso_name>Heard Island and McDonald Islands</iso_name>
+    <id_number>334</id_number>
+    <three_digit_id>HMD</three_digit_id>
+    <two_digit_id>HM</two_digit_id>
+    <location>インド洋地域</location>
+    <region>ISO 3166-2:HM</region>
+    <longitude>73.504158</longitude>
+    <latitude>-53.08181</latitude>
+    <distance>12597</distance>
+  </country>
+  <country>
+    <jp_name>ルワンダ</jp_name>
+    <iso_name>Rwanda</iso_name>
+    <id_number>646</id_number>
+    <three_digit_id>RWA</three_digit_id>
+    <two_digit_id>RW</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:RW</region>
+    <longitude>29.873888</longitude>
+    <latitude>-1.940278</latitude>
+    <distance>12828</distance>
+  </country>
+  <country>
+    <jp_name>ピトケアン諸島</jp_name>
+    <iso_name>Pitcairn</iso_name>
+    <id_number>612</id_number>
+    <three_digit_id>PCN</three_digit_id>
+    <two_digit_id>PN</two_digit_id>
+    <location>オセアニア</location>
+    <region>ISO 3166-2:PN</region>
+    <longitude>-128.3243679</longitude>
+    <latitude>-24.3764907</latitude>
+    <distance>12904</distance>
+  </country>
+  <country>
+    <jp_name>ブルンジ</jp_name>
+    <iso_name>Burundi</iso_name>
+    <id_number>108</id_number>
+    <three_digit_id>BDI</three_digit_id>
+    <two_digit_id>BI</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:BI</region>
+    <longitude>29.918886</longitude>
+    <latitude>-3.373056</latitude>
+    <distance>12919</distance>
+  </country>
+  <country>
+    <jp_name>中央アフリカ共和国</jp_name>
+    <iso_name>Central African Republic</iso_name>
+    <id_number>140</id_number>
+    <three_digit_id>CAF</three_digit_id>
+    <two_digit_id>CF</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:CF</region>
+    <longitude>20.939444</longitude>
+    <latitude>6.611111</latitude>
+    <distance>12922</distance>
+  </country>
+  <country>
+    <jp_name>バミューダ諸島</jp_name>
+    <iso_name>Bermuda</iso_name>
+    <id_number>60</id_number>
+    <three_digit_id>BMU</three_digit_id>
+    <two_digit_id>BM</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:BM</region>
+    <longitude>-64.7505</longitude>
+    <latitude>32.3078</latitude>
+    <distance>13093</distance>
+  </country>
+  <country>
+    <jp_name>ニジェール</jp_name>
+    <iso_name>Niger</iso_name>
+    <id_number>562</id_number>
+    <three_digit_id>NER</three_digit_id>
+    <two_digit_id>NE</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:NE</region>
+    <longitude>8.081666</longitude>
+    <latitude>17.607789</latitude>
+    <distance>13188</distance>
+  </country>
+  <country>
+    <jp_name>マラウイ</jp_name>
+    <iso_name>Malawi</iso_name>
+    <id_number>454</id_number>
+    <three_digit_id>MWI</three_digit_id>
+    <two_digit_id>MW</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:MW</region>
+    <longitude>34.301525</longitude>
+    <latitude>-13.254308</latitude>
+    <distance>13222</distance>
+  </country>
+  <country>
+    <jp_name>バハマ</jp_name>
+    <iso_name>Bahamas</iso_name>
+    <id_number>44</id_number>
+    <three_digit_id>BHS</three_digit_id>
+    <two_digit_id>BS</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:BS</region>
+    <longitude>-77.39628</longitude>
+    <latitude>25.03428</latitude>
+    <distance>13360</distance>
+  </country>
+  <country>
+    <jp_name>ベリーズ</jp_name>
+    <iso_name>Belize</iso_name>
+    <id_number>84</id_number>
+    <three_digit_id>BLZ</three_digit_id>
+    <two_digit_id>BZ</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:BZ</region>
+    <longitude>-88.49765</longitude>
+    <latitude>17.189877</latitude>
+    <distance>13405</distance>
+  </country>
+  <country>
+    <jp_name>グアテマラ</jp_name>
+    <iso_name>Guatemala</iso_name>
+    <id_number>320</id_number>
+    <three_digit_id>GTM</three_digit_id>
+    <two_digit_id>GT</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:GT</region>
+    <longitude>-90.230759</longitude>
+    <latitude>15.783471</latitude>
+    <distance>13427</distance>
+  </country>
+  <country>
+    <jp_name>モザンビーク</jp_name>
+    <iso_name>Mozambique</iso_name>
+    <id_number>508</id_number>
+    <three_digit_id>MOZ</three_digit_id>
+    <two_digit_id>MZ</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:MZ</region>
+    <longitude>35.529562</longitude>
+    <latitude>-18.665695</latitude>
+    <distance>13436</distance>
+  </country>
+  <country>
+    <jp_name>キューバ</jp_name>
+    <iso_name>Cuba</iso_name>
+    <id_number>192</id_number>
+    <three_digit_id>CUB</three_digit_id>
+    <two_digit_id>CU</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:CU</region>
+    <longitude>-77.781167</longitude>
+    <latitude>21.521757</latitude>
+    <distance>13472</distance>
+  </country>
+  <country>
+    <jp_name>エルサルバドル</jp_name>
+    <iso_name>El Salvador</iso_name>
+    <id_number>222</id_number>
+    <three_digit_id>SLV</three_digit_id>
+    <two_digit_id>SV</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:SV</region>
+    <longitude>-88.89653</longitude>
+    <latitude>13.794185</latitude>
+    <distance>13578</distance>
+  </country>
+  <country>
+    <jp_name>ケイマン諸島</jp_name>
+    <iso_name>Cayman Islands</iso_name>
+    <id_number>136</id_number>
+    <three_digit_id>CYM</three_digit_id>
+    <two_digit_id>KY</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:KY</region>
+    <longitude>-81.2546</longitude>
+    <latitude>19.3133</latitude>
+    <distance>13639</distance>
+  </country>
+  <country>
+    <jp_name>カメルーン</jp_name>
+    <iso_name>Cameroon</iso_name>
+    <id_number>120</id_number>
+    <three_digit_id>CMR</three_digit_id>
+    <two_digit_id>CM</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:CM</region>
+    <longitude>12.354722</longitude>
+    <latitude>7.369722</latitude>
+    <distance>13653</distance>
+  </country>
+  <country>
+    <jp_name>コンゴ民主共和国</jp_name>
+    <iso_name>Congo, the Democratic Republic of the</iso_name>
+    <id_number>180</id_number>
+    <three_digit_id>COD</three_digit_id>
+    <two_digit_id>CD</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:CD</region>
+    <longitude>22.28427</longitude>
+    <latitude>-4.135726</latitude>
+    <distance>13726</distance>
+  </country>
+  <country>
+    <jp_name>ホンジュラス</jp_name>
+    <iso_name>Honduras</iso_name>
+    <id_number>340</id_number>
+    <three_digit_id>HND</three_digit_id>
+    <two_digit_id>HN</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:HN</region>
+    <longitude>-86.241905</longitude>
+    <latitude>15.199999</latitude>
+    <distance>13798</distance>
+  </country>
+  <country>
+    <jp_name>西サハラ</jp_name>
+    <iso_name>Western Sahara</iso_name>
+    <id_number>732</id_number>
+    <three_digit_id>ESH</three_digit_id>
+    <two_digit_id>EH</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:EH</region>
+    <longitude>-12.885834</longitude>
+    <latitude>24.215527</latitude>
+    <distance>13854</distance>
+  </country>
+  <country>
+    <jp_name>ザンビア</jp_name>
+    <iso_name>Zambia</iso_name>
+    <id_number>894</id_number>
+    <three_digit_id>ZMB</three_digit_id>
+    <two_digit_id>ZM</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:ZM</region>
+    <longitude>27.849332</longitude>
+    <latitude>-13.133897</latitude>
+    <distance>13895</distance>
+  </country>
+  <country>
+    <jp_name>ナイジェリア</jp_name>
+    <iso_name>Nigeria</iso_name>
+    <id_number>566</id_number>
+    <three_digit_id>NGA</three_digit_id>
+    <two_digit_id>NG</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:NG</region>
+    <longitude>8.675277</longitude>
+    <latitude>9.081999</latitude>
+    <distance>13975</distance>
+  </country>
+  <country>
+    <jp_name>マリ共和国</jp_name>
+    <iso_name>Mali</iso_name>
+    <id_number>466</id_number>
+    <three_digit_id>MLI</three_digit_id>
+    <two_digit_id>ML</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:ML</region>
+    <longitude>-3.996166</longitude>
+    <latitude>17.570692</latitude>
+    <distance>14013</distance>
+  </country>
+  <country>
+    <jp_name>タークス・カイコス諸島</jp_name>
+    <iso_name>Turks and Caicos Islands</iso_name>
+    <id_number>796</id_number>
+    <three_digit_id>TCA</three_digit_id>
+    <two_digit_id>TC</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:TC</region>
+    <longitude>-71.797928</longitude>
+    <latitude>21.694025</latitude>
+    <distance>14045</distance>
+  </country>
+  <country>
+    <jp_name>コンゴ共和国</jp_name>
+    <iso_name>Congo</iso_name>
+    <id_number>178</id_number>
+    <three_digit_id>COG</three_digit_id>
+    <two_digit_id>CG</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:CG</region>
+    <longitude>15.827659</longitude>
+    <latitude>-0.228021</latitude>
+    <distance>14074</distance>
+  </country>
+  <country>
+    <jp_name>モーリタニア</jp_name>
+    <iso_name>Mauritania</iso_name>
+    <id_number>478</id_number>
+    <three_digit_id>MRT</three_digit_id>
+    <two_digit_id>MR</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:MR</region>
+    <longitude>-10.940835</longitude>
+    <latitude>21.00789</latitude>
+    <distance>14096</distance>
+  </country>
+  <country>
+    <jp_name>ニカラグア</jp_name>
+    <iso_name>Nicaragua</iso_name>
+    <id_number>558</id_number>
+    <three_digit_id>NIC</three_digit_id>
+    <two_digit_id>NI</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:NI</region>
+    <longitude>-85.207229</longitude>
+    <latitude>12.865416</latitude>
+    <distance>14121</distance>
+  </country>
+  <country>
+    <jp_name>ジャマイカ</jp_name>
+    <iso_name>Jamaica</iso_name>
+    <id_number>388</id_number>
+    <three_digit_id>JAM</three_digit_id>
+    <two_digit_id>JM</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:JM</region>
+    <longitude>-77.297508</longitude>
+    <latitude>18.109581</latitude>
+    <distance>14140</distance>
+  </country>
+  <country>
+    <jp_name>ジンバブエ</jp_name>
+    <iso_name>Zimbabwe</iso_name>
+    <id_number>716</id_number>
+    <three_digit_id>ZWE</three_digit_id>
+    <two_digit_id>ZW</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:ZW</region>
+    <longitude>29.154857</longitude>
+    <latitude>-19.015438</latitude>
+    <distance>14229</distance>
+  </country>
+  <country>
+    <jp_name>ハイチ</jp_name>
+    <iso_name>Haiti</iso_name>
+    <id_number>332</id_number>
+    <three_digit_id>HTI</three_digit_id>
+    <two_digit_id>HT</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:HT</region>
+    <longitude>-72.285215</longitude>
+    <latitude>18.971187</latitude>
+    <distance>14275</distance>
+  </country>
+  <country>
+    <jp_name>スワジランド</jp_name>
+    <iso_name>Swaziland</iso_name>
+    <id_number>748</id_number>
+    <three_digit_id>SWZ</three_digit_id>
+    <two_digit_id>SZ</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:SZ</region>
+    <longitude>31.465866</longitude>
+    <latitude>-26.522503</latitude>
+    <distance>14282</distance>
+  </country>
+  <country>
+    <jp_name>ベナン</jp_name>
+    <iso_name>Benin</iso_name>
+    <id_number>204</id_number>
+    <three_digit_id>BEN</three_digit_id>
+    <two_digit_id>BJ</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:BJ</region>
+    <longitude>2.315834</longitude>
+    <latitude>9.30769</latitude>
+    <distance>14447</distance>
+  </country>
+  <country>
+    <jp_name>ブルキナファソ</jp_name>
+    <iso_name>Burkina Faso</iso_name>
+    <id_number>854</id_number>
+    <three_digit_id>BFA</three_digit_id>
+    <two_digit_id>BF</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:BF</region>
+    <longitude>-1.561593</longitude>
+    <latitude>12.238333</latitude>
+    <distance>14450</distance>
+  </country>
+  <country>
+    <jp_name>赤道ギニア</jp_name>
+    <iso_name>Equatorial Guinea</iso_name>
+    <id_number>226</id_number>
+    <three_digit_id>GNQ</three_digit_id>
+    <two_digit_id>GQ</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:GQ</region>
+    <longitude>10.267895</longitude>
+    <latitude>1.650801</latitude>
+    <distance>14457</distance>
+  </country>
+  <country>
+    <jp_name>ドミニカ共和国</jp_name>
+    <iso_name>Dominican Republic</iso_name>
+    <id_number>214</id_number>
+    <three_digit_id>DOM</three_digit_id>
+    <two_digit_id>DO</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:DO</region>
+    <longitude>-70.162651</longitude>
+    <latitude>18.735693</latitude>
+    <distance>14466</distance>
+  </country>
+  <country>
+    <jp_name>ガボン</jp_name>
+    <iso_name>Gabon</iso_name>
+    <id_number>266</id_number>
+    <three_digit_id>GAB</three_digit_id>
+    <two_digit_id>GA</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:GA</region>
+    <longitude>11.609444</longitude>
+    <latitude>-0.803689</latitude>
+    <distance>14475</distance>
+  </country>
+  <country>
+    <jp_name>コスタリカ</jp_name>
+    <iso_name>Costa Rica</iso_name>
+    <id_number>188</id_number>
+    <three_digit_id>CRI</three_digit_id>
+    <two_digit_id>CR</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:CR</region>
+    <longitude>-83.753428</longitude>
+    <latitude>9.748917</latitude>
+    <distance>14485</distance>
+  </country>
+  <country>
+    <jp_name>トーゴ</jp_name>
+    <iso_name>Togo</iso_name>
+    <id_number>768</id_number>
+    <three_digit_id>TGO</three_digit_id>
+    <two_digit_id>TG</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:TG</region>
+    <longitude>0.824782</longitude>
+    <latitude>8.619543</latitude>
+    <distance>14612</distance>
+  </country>
+  <country>
+    <jp_name>プエルトリコ</jp_name>
+    <iso_name>Puerto Rico</iso_name>
+    <id_number>630</id_number>
+    <three_digit_id>PRI</three_digit_id>
+    <two_digit_id>PR</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:PR</region>
+    <longitude>-66.590149</longitude>
+    <latitude>18.220833</latitude>
+    <distance>14688</distance>
+  </country>
+  <country>
+    <jp_name>アンゴラ</jp_name>
+    <iso_name>Angola</iso_name>
+    <id_number>24</id_number>
+    <three_digit_id>AGO</three_digit_id>
+    <two_digit_id>AO</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:AO</region>
+    <longitude>17.873887</longitude>
+    <latitude>-11.202692</latitude>
+    <distance>14706</distance>
+  </country>
+  <country>
+    <jp_name>アメリカ領ヴァージン諸島</jp_name>
+    <iso_name>Virgin Islands, U.S.</iso_name>
+    <id_number>850</id_number>
+    <three_digit_id>VIR</three_digit_id>
+    <two_digit_id>VI</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:VI</region>
+    <longitude>-64.896335</longitude>
+    <latitude>18.335765</latitude>
+    <distance>14710</distance>
+  </country>
+  <country>
+    <jp_name>ボツワナ</jp_name>
+    <iso_name>Botswana</iso_name>
+    <id_number>72</id_number>
+    <three_digit_id>BWA</three_digit_id>
+    <two_digit_id>BW</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:BW</region>
+    <longitude>24.684866</longitude>
+    <latitude>-22.328474</latitude>
+    <distance>14771</distance>
+  </country>
+  <country>
+    <jp_name>ガーナ</jp_name>
+    <iso_name>Ghana</iso_name>
+    <id_number>288</id_number>
+    <three_digit_id>GHA</three_digit_id>
+    <two_digit_id>GH</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:GH</region>
+    <longitude>-1.023194</longitude>
+    <latitude>7.946527</latitude>
+    <distance>14794</distance>
+  </country>
+  <country>
+    <jp_name>アンギラ</jp_name>
+    <iso_name>Anguilla</iso_name>
+    <id_number>660</id_number>
+    <three_digit_id>AIA</three_digit_id>
+    <two_digit_id>AI</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:AI</region>
+    <longitude>-63.068615</longitude>
+    <latitude>18.220554</latitude>
+    <distance>14837</distance>
+  </country>
+  <country>
+    <jp_name>サン・マルタン (西インド諸島)</jp_name>
+    <iso_name>Saint Martin (French part)</iso_name>
+    <id_number>663</id_number>
+    <three_digit_id>MAF</three_digit_id>
+    <two_digit_id>MF</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:MF</region>
+    <longitude>-63.052251</longitude>
+    <latitude>18.08255</latitude>
+    <distance>14879</distance>
+  </country>
+  <country>
+    <jp_name>シント・マールテン</jp_name>
+    <iso_name>Sint Maarten (Dutch part)</iso_name>
+    <id_number>534</id_number>
+    <three_digit_id>SXM</three_digit_id>
+    <two_digit_id>SX</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:SX</region>
+    <longitude>-63.052251</longitude>
+    <latitude>18.08255</latitude>
+    <distance>15106</distance>
+  </country>
+  <country>
+    <jp_name>パナマ</jp_name>
+    <iso_name>Panama</iso_name>
+    <id_number>591</id_number>
+    <three_digit_id>PAN</three_digit_id>
+    <two_digit_id>PA</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:PA</region>
+    <longitude>-80.782127</longitude>
+    <latitude>8.537981</latitude>
+    <distance>15197</distance>
+  </country>
+  <country>
+    <jp_name>レソト</jp_name>
+    <iso_name>Lesotho</iso_name>
+    <id_number>426</id_number>
+    <three_digit_id>LSO</three_digit_id>
+    <two_digit_id>LS</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:LS</region>
+    <longitude>28.233608</longitude>
+    <latitude>-29.609988</latitude>
+    <distance>15436</distance>
+  </country>
+  <country>
+    <jp_name>サントメ・プリンシペ</jp_name>
+    <iso_name>Sao Tome and Principe</iso_name>
+    <id_number>678</id_number>
+    <three_digit_id>STP</three_digit_id>
+    <two_digit_id>ST</two_digit_id>
+    <location>中央アフリカ</location>
+    <region>ISO 3166-2:ST</region>
+    <longitude>6.613081</longitude>
+    <latitude>0.18636</latitude>
+    <distance>15499</distance>
+  </country>
+  <country>
+    <jp_name>サン・バルテルミー島|サン・バルテルミー</jp_name>
+    <iso_name>Saint Barthélemy</iso_name>
+    <id_number>652</id_number>
+    <three_digit_id>BLM</three_digit_id>
+    <two_digit_id>BL</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:BL</region>
+    <longitude>-62.833333</longitude>
+    <latitude>17.9</latitude>
+    <distance>15558</distance>
+  </country>
+  <country>
+    <jp_name>セントクリストファー・ネイビス</jp_name>
+    <iso_name>Saint Kitts and Nevis</iso_name>
+    <id_number>659</id_number>
+    <three_digit_id>KNA</three_digit_id>
+    <two_digit_id>KN</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:KN</region>
+    <longitude>-62.782998</longitude>
+    <latitude>17.357822</latitude>
+    <distance>15621</distance>
+  </country>
+  <country>
+    <jp_name>セネガル</jp_name>
+    <iso_name>Senegal</iso_name>
+    <id_number>686</id_number>
+    <three_digit_id>SEN</three_digit_id>
+    <two_digit_id>SN</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:SN</region>
+    <longitude>-14.452362</longitude>
+    <latitude>14.497401</latitude>
+    <distance>15656</distance>
+  </country>
+  <country>
+    <jp_name>アンティグア・バーブーダ</jp_name>
+    <iso_name>Antigua and Barbuda</iso_name>
+    <id_number>28</id_number>
+    <three_digit_id>ATG</three_digit_id>
+    <two_digit_id>AG</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:AG</region>
+    <longitude>-61.796428</longitude>
+    <latitude>17.060816</latitude>
+    <distance>15672</distance>
+  </country>
+  <country>
+    <jp_name>モントセラト</jp_name>
+    <iso_name>Montserrat</iso_name>
+    <id_number>500</id_number>
+    <three_digit_id>MSR</three_digit_id>
+    <two_digit_id>MS</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:MS</region>
+    <longitude>-62.187366</longitude>
+    <latitude>16.742498</latitude>
+    <distance>15727</distance>
+  </country>
+  <country>
+    <jp_name>グアドループ</jp_name>
+    <iso_name>Guadeloupe</iso_name>
+    <id_number>312</id_number>
+    <three_digit_id>GLP</three_digit_id>
+    <two_digit_id>GP</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:GP</region>
+    <longitude>-61.551</longitude>
+    <latitude>16.265</latitude>
+    <distance>15747</distance>
+  </country>
+  <country>
+    <jp_name>ガンビア</jp_name>
+    <iso_name>Gambia</iso_name>
+    <id_number>270</id_number>
+    <three_digit_id>GMB</three_digit_id>
+    <two_digit_id>GM</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:GM</region>
+    <longitude>-15.310139</longitude>
+    <latitude>13.443182</latitude>
+    <distance>15758</distance>
+  </country>
+  <country>
+    <jp_name>アルバ</jp_name>
+    <iso_name>Aruba</iso_name>
+    <id_number>533</id_number>
+    <three_digit_id>ABW</three_digit_id>
+    <two_digit_id>AW</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:AW</region>
+    <longitude>-69.968338</longitude>
+    <latitude>12.52111</latitude>
+    <distance>15785</distance>
+  </country>
+  <country>
+    <jp_name>コートジボワール</jp_name>
+    <iso_name>Côte d'Ivoire</iso_name>
+    <id_number>384</id_number>
+    <three_digit_id>CIV</three_digit_id>
+    <two_digit_id>CI</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:CI</region>
+    <longitude>-5.54708</longitude>
+    <latitude>7.539989</latitude>
+    <distance>15821</distance>
+  </country>
+  <country>
+    <jp_name>ギニア</jp_name>
+    <iso_name>Guinea</iso_name>
+    <id_number>324</id_number>
+    <three_digit_id>GIN</three_digit_id>
+    <two_digit_id>GN</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:GN</region>
+    <longitude>-9.696645</longitude>
+    <latitude>9.945587</latitude>
+    <distance>15841</distance>
+  </country>
+  <country>
+    <jp_name>ドミニカ国</jp_name>
+    <iso_name>Dominica</iso_name>
+    <id_number>212</id_number>
+    <three_digit_id>DMA</three_digit_id>
+    <two_digit_id>DM</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:DM</region>
+    <longitude>-61.370976</longitude>
+    <latitude>15.414999</latitude>
+    <distance>15843</distance>
+  </country>
+  <country>
+    <jp_name>キュラソー島</jp_name>
+    <iso_name>Curaçao</iso_name>
+    <id_number>531</id_number>
+    <three_digit_id>CUW</three_digit_id>
+    <two_digit_id>CW</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:CW</region>
+    <longitude>-68.99002</longitude>
+    <latitude>12.16957</latitude>
+    <distance>15845</distance>
+  </country>
+  <country>
+    <jp_name>南極</jp_name>
+    <iso_name>Antarctica</iso_name>
+    <id_number>10</id_number>
+    <three_digit_id>ATA</three_digit_id>
+    <two_digit_id>AQ</two_digit_id>
+    <location>南極</location>
+    <region>ISO 3166-2:AQ</region>
+    <longitude>-135</longitude>
+    <latitude>-82.8627519</latitude>
+    <distance>15858</distance>
+  </country>
+  <country>
+    <jp_name>BES諸島</jp_name>
+    <iso_name>Bonaire, Saint Eustatius and Saba</iso_name>
+    <id_number>535</id_number>
+    <three_digit_id>BES</three_digit_id>
+    <two_digit_id>BQ</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:BQ</region>
+    <longitude>-68.2385339</longitude>
+    <latitude>12.1783611</latitude>
+    <distance>15858</distance>
+  </country>
+  <country>
+    <jp_name>ギニアビサウ</jp_name>
+    <iso_name>Guinea-Bissau</iso_name>
+    <id_number>624</id_number>
+    <three_digit_id>GNB</three_digit_id>
+    <two_digit_id>GW</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:GW</region>
+    <longitude>-15.180413</longitude>
+    <latitude>11.803749</latitude>
+    <distance>15893</distance>
+  </country>
+  <country>
+    <jp_name>カーボベルデ</jp_name>
+    <iso_name>Cape Verde</iso_name>
+    <id_number>132</id_number>
+    <three_digit_id>CPV</three_digit_id>
+    <two_digit_id>CV</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:CV</region>
+    <longitude>-23.6050817</longitude>
+    <latitude>15.1217288</latitude>
+    <distance>15895</distance>
+  </country>
+  <country>
+    <jp_name>マルティニーク</jp_name>
+    <iso_name>Martinique</iso_name>
+    <id_number>474</id_number>
+    <three_digit_id>MTQ</three_digit_id>
+    <two_digit_id>MQ</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:MQ</region>
+    <longitude>-61.024174</longitude>
+    <latitude>14.641528</latitude>
+    <distance>15945</distance>
+  </country>
+  <country>
+    <jp_name>南アフリカ共和国</jp_name>
+    <iso_name>South Africa</iso_name>
+    <id_number>710</id_number>
+    <three_digit_id>ZAF</three_digit_id>
+    <two_digit_id>ZA</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:ZA</region>
+    <longitude>22.937506</longitude>
+    <latitude>-30.559482</latitude>
+    <distance>16055</distance>
+  </country>
+  <country>
+    <jp_name>セントルシア</jp_name>
+    <iso_name>Saint Lucia</iso_name>
+    <id_number>662</id_number>
+    <three_digit_id>LCA</three_digit_id>
+    <two_digit_id>LC</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:LC</region>
+    <longitude>-60.978893</longitude>
+    <latitude>13.909444</latitude>
+    <distance>16067</distance>
+  </country>
+  <country>
+    <jp_name>ナミビア</jp_name>
+    <iso_name>Namibia</iso_name>
+    <id_number>516</id_number>
+    <three_digit_id>NAM</three_digit_id>
+    <two_digit_id>NA</two_digit_id>
+    <location>南アフリカ</location>
+    <region>ISO 3166-2:NA</region>
+    <longitude>18.49041</longitude>
+    <latitude>-22.95764</latitude>
+    <distance>16158</distance>
+  </country>
+  <country>
+    <jp_name>シエラレオネ</jp_name>
+    <iso_name>Sierra Leone</iso_name>
+    <id_number>694</id_number>
+    <three_digit_id>SLE</three_digit_id>
+    <two_digit_id>SL</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:SL</region>
+    <longitude>-11.779889</longitude>
+    <latitude>8.460555</latitude>
+    <distance>16246</distance>
+  </country>
+  <country>
+    <jp_name>セントビンセント・グレナディーン</jp_name>
+    <iso_name>Saint Vincent and the Grenadines</iso_name>
+    <id_number>670</id_number>
+    <three_digit_id>VCT</three_digit_id>
+    <two_digit_id>VC</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:VC</region>
+    <longitude>-61.196251</longitude>
+    <latitude>13.2533835</latitude>
+    <distance>16344</distance>
+  </country>
+  <country>
+    <jp_name>リベリア</jp_name>
+    <iso_name>Liberia</iso_name>
+    <id_number>430</id_number>
+    <three_digit_id>LBR</three_digit_id>
+    <two_digit_id>LR</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:LR</region>
+    <longitude>-9.429499</longitude>
+    <latitude>6.428055</latitude>
+    <distance>16408</distance>
+  </country>
+  <country>
+    <jp_name>バルバドス</jp_name>
+    <iso_name>Barbados</iso_name>
+    <id_number>52</id_number>
+    <three_digit_id>BRB</three_digit_id>
+    <two_digit_id>BB</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:BB</region>
+    <longitude>-59.543198</longitude>
+    <latitude>13.193887</latitude>
+    <distance>16417</distance>
+  </country>
+  <country>
+    <jp_name>グレナダ</jp_name>
+    <iso_name>Grenada</iso_name>
+    <id_number>308</id_number>
+    <three_digit_id>GRD</three_digit_id>
+    <two_digit_id>GD</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:GD</region>
+    <longitude>-61.679</longitude>
+    <latitude>12.1165</latitude>
+    <distance>16432</distance>
+  </country>
+  <country>
+    <jp_name>コロンビア</jp_name>
+    <iso_name>Colombia</iso_name>
+    <id_number>170</id_number>
+    <three_digit_id>COL</three_digit_id>
+    <two_digit_id>CO</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:CO</region>
+    <longitude>-74.297333</longitude>
+    <latitude>4.570868</latitude>
+    <distance>16440</distance>
+  </country>
+  <country>
+    <jp_name>トリニダード・トバゴ</jp_name>
+    <iso_name>Trinidad and Tobago</iso_name>
+    <id_number>780</id_number>
+    <three_digit_id>TTO</three_digit_id>
+    <two_digit_id>TT</two_digit_id>
+    <location>中央アメリカ</location>
+    <region>ISO 3166-2:TT</region>
+    <longitude>-61.222503</longitude>
+    <latitude>10.691803</latitude>
+    <distance>16484</distance>
+  </country>
+  <country>
+    <jp_name>ベネズエラ</jp_name>
+    <iso_name>Venezuela, Bolivarian Republic of</iso_name>
+    <id_number>862</id_number>
+    <three_digit_id>VEN</three_digit_id>
+    <two_digit_id>VE</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:VE</region>
+    <longitude>-66.58973</longitude>
+    <latitude>6.42375</latitude>
+    <distance>16610</distance>
+  </country>
+  <country>
+    <jp_name>エクアドル</jp_name>
+    <iso_name>Ecuador</iso_name>
+    <id_number>218</id_number>
+    <three_digit_id>ECU</three_digit_id>
+    <two_digit_id>EC</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:EC</region>
+    <longitude>-78.183406</longitude>
+    <latitude>-1.831239</latitude>
+    <distance>16644</distance>
+  </country>
+  <country>
+    <jp_name>ガイアナ</jp_name>
+    <iso_name>Guyana</iso_name>
+    <id_number>328</id_number>
+    <three_digit_id>GUY</three_digit_id>
+    <two_digit_id>GY</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:GY</region>
+    <longitude>-58.93018</longitude>
+    <latitude>4.860416</latitude>
+    <distance>16660</distance>
+  </country>
+  <country>
+    <jp_name>スリナム</jp_name>
+    <iso_name>Suriname</iso_name>
+    <id_number>740</id_number>
+    <three_digit_id>SUR</three_digit_id>
+    <two_digit_id>SR</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:SR</region>
+    <longitude>-56.027783</longitude>
+    <latitude>3.919305</latitude>
+    <distance>17186</distance>
+  </country>
+  <country>
+    <jp_name>フランス領ギアナ</jp_name>
+    <iso_name>French Guiana</iso_name>
+    <id_number>254</id_number>
+    <three_digit_id>GUF</three_digit_id>
+    <two_digit_id>GF</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:GF</region>
+    <longitude>-53.125782</longitude>
+    <latitude>3.933889</latitude>
+    <distance>17331</distance>
+  </country>
+  <country>
+    <jp_name>ペルー</jp_name>
+    <iso_name>Peru</iso_name>
+    <id_number>604</id_number>
+    <three_digit_id>PER</three_digit_id>
+    <two_digit_id>PE</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:PE</region>
+    <longitude>-75.015152</longitude>
+    <latitude>-9.189967</latitude>
+    <distance>17699</distance>
+  </country>
+  <country>
+    <jp_name>セントヘレナ・アセンションおよびトリスタンダクーニャ</jp_name>
+    <iso_name>Saint Helena, Ascension and Tristan da Cunha</iso_name>
+    <id_number>654</id_number>
+    <three_digit_id>SHN</three_digit_id>
+    <two_digit_id>SH</two_digit_id>
+    <location>西アフリカ</location>
+    <region>ISO 3166-2:SH</region>
+    <longitude>-14.3559158</longitude>
+    <latitude>-7.9467166</latitude>
+    <distance>17893</distance>
+  </country>
+  <country>
+    <jp_name>ブーベ島</jp_name>
+    <iso_name>Bouvet Island</iso_name>
+    <id_number>74</id_number>
+    <three_digit_id>BVT</three_digit_id>
+    <two_digit_id>BV</two_digit_id>
+    <location>南極</location>
+    <region>ISO 3166-2:BV</region>
+    <longitude>3.413194</longitude>
+    <latitude>-54.423199</latitude>
+    <distance>17996</distance>
+  </country>
+  <country>
+    <jp_name>ボリビア</jp_name>
+    <iso_name>Bolivia, Plurinational State of</iso_name>
+    <id_number>68</id_number>
+    <three_digit_id>BOL</three_digit_id>
+    <two_digit_id>BO</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:BO</region>
+    <longitude>-63.588653</longitude>
+    <latitude>-16.290154</latitude>
+    <distance>18288</distance>
+  </country>
+  <country>
+    <jp_name>チリ</jp_name>
+    <iso_name>Chile</iso_name>
+    <id_number>152</id_number>
+    <three_digit_id>CHL</three_digit_id>
+    <two_digit_id>CL</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:CL</region>
+    <longitude>-71.542969</longitude>
+    <latitude>-35.675147</latitude>
+    <distance>18513</distance>
+  </country>
+  <country>
+    <jp_name>ブラジル</jp_name>
+    <iso_name>Brazil</iso_name>
+    <id_number>76</id_number>
+    <three_digit_id>BRA</three_digit_id>
+    <two_digit_id>BR</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:BR</region>
+    <longitude>-51.92528</longitude>
+    <latitude>-14.235004</latitude>
+    <distance>19233</distance>
+  </country>
+  <country>
+    <jp_name>フォークランド諸島</jp_name>
+    <iso_name>Falkland Islands (Malvinas)</iso_name>
+    <id_number>238</id_number>
+    <three_digit_id>FLK</three_digit_id>
+    <two_digit_id>FK</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:FK</region>
+    <longitude>-59.523613</longitude>
+    <latitude>-51.796253</latitude>
+    <distance>19380</distance>
+  </country>
+  <country>
+    <jp_name>パラグアイ</jp_name>
+    <iso_name>Paraguay</iso_name>
+    <id_number>600</id_number>
+    <three_digit_id>PRY</three_digit_id>
+    <two_digit_id>PY</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:PY</region>
+    <longitude>-58.443832</longitude>
+    <latitude>-23.442503</latitude>
+    <distance>19437</distance>
+  </country>
+  <country>
+    <jp_name>サウスジョージア・サウスサンドウィッチ諸島</jp_name>
+    <iso_name>South Georgia and the South Sandwich Islands</iso_name>
+    <id_number>239</id_number>
+    <three_digit_id>SGS</three_digit_id>
+    <two_digit_id>GS</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:GS</region>
+    <longitude>-36.587909</longitude>
+    <latitude>-54.429579</latitude>
+    <distance>19970</distance>
+  </country>
+  <country>
+    <jp_name>アルゼンチン</jp_name>
+    <iso_name>Argentina</iso_name>
+    <id_number>32</id_number>
+    <three_digit_id>ARG</three_digit_id>
+    <two_digit_id>AR</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:AR</region>
+    <longitude>-63.616672</longitude>
+    <latitude>-38.416097</latitude>
+    <distance>20368</distance>
+  </country>
+  <country>
+    <jp_name>ウルグアイ</jp_name>
+    <iso_name>Uruguay</iso_name>
+    <id_number>858</id_number>
+    <three_digit_id>URY</three_digit_id>
+    <two_digit_id>UY</two_digit_id>
+    <location>南アメリカ</location>
+    <region>ISO 3166-2:UY</region>
+    <longitude>-55.765835</longitude>
+    <latitude>-32.522779</latitude>
+    <distance>21676</distance>
+  </country>
+</countries>

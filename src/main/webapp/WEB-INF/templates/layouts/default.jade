@@ -1,0 +1,13 @@
+-@ val title: String
+-@ val body: String
+-@ val baseUrl: String = uri("/")
+
+!!! 5
+html
+  head
+    title= title
+    link(rel="stylesheet" href="#{baseUrl}stylesheets/main.css")
+  body
+    #wrapper
+      != body
+

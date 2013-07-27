@@ -1,0 +1,27 @@
+- import com.github.yzgw.app._
+
+-@ val country: Country
+
+head
+  script(src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js")
+  script(src="/javascripts/country.js")
+  #toolbox
+    a#fitbitLogout(href="/logout") ログアウト
+  h1#logo
+    a(href="/")
+      span Journey - 世界を歩く。
+h1 #{country.jp_name} - #{country.iso_name}
+
+article.note
+  h2 写真で調べる
+  #photos
+    img(src="../images/ajax-loader.gif")
+  p Photos by Flickr.
+
+article.note
+  h2
+    a(href="http://ja.wikipedia.org/wiki/#{country.jp_name}") Wikipediaで調べる
+
+article.note
+  h2
+    a(href="http://www.google.co.jp/search?q=#{country.jp_name}") Googleでもっと検索する

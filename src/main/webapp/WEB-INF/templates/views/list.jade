@@ -1,0 +1,41 @@
+- import com.github.yzgw.app._
+
+-@ val steps: Int
+-@ val name: String
+-@ val visited: Array[Country]
+-@ val unvisited: Array[Country]
+-@ val accessAvailable: Boolean
+
+head
+  #toolbox
+    a#fitbitLogout(href="/logout") ログアウト
+  h1#logo
+    a(href="/")
+      span Journey - 世界を歩く。
+  h1
+    span#greeting こんにちは、#{name}
+
+article.indicator
+  h2 現在の歩数：#{steps} 歩
+
+article
+  h2 訪問済みの国
+  ul
+    - visited.foreach( c =>
+      li
+        a(href="/country/#{c.three_digit_id}") #{c.jp_name}（日本から#{c.distance}歩）
+    - )
+
+article
+  h2 今日の行き先
+  p 歩数を使って国を探しましょう。一日に行ける国は1つだけです。
+  ul
+    - unvisited.foreach( c =>
+      li
+        - if(accessAvailable && c.distance < steps)
+          span
+            a(href="/country/#{c.three_digit_id}") #{c.jp_name}（日本から#{c.distance}歩）
+        - else
+          span #{c.jp_name}（日本から#{c.distance}歩）
+    - )
+
